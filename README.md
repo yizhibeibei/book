@@ -1,3 +1,4 @@
+- [可莉特调](https://genshin.pub/daily)
 - [sakana录播机(斗鱼，b站，虎牙，支持弹幕)（2021/6/11 更新）](http://www.bilibili.com/read/cv5839654)
 - [编程导航](https://www.code-nav.cn/recommend)
 - [chinnkarahoi/jd_scripts](https://github.com/chinnkarahoi/jd_scripts)
