@@ -1,3 +1,4 @@
+- [RSS](https://yizhibeibei.github.io/RSS/)
 - [Sora233/DDBOT](https://github.com/Sora233/DDBOT)
 - [star261/jd](https://github.com/star261/jd)
 - [boluosaibei - Stars](https://github.com/boluosaibei?direction=desc&sort=updated&tab=stars)
