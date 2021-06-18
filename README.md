@@ -1,4 +1,4 @@
-- [PC端小说下载器v1.4.1【2021-06-15】更新 - 『原创发布区』  - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn](https://www.52pojie.cn/thread-1378350-1-1.html)
+- [PC端小说下载器v1.4.1【2021-06-15】更新 - 『原创发布区』  - 吾爱破解](https://www.52pojie.cn/thread-1378350-1-1.html)
 - [可莉特调](https://genshin.pub/daily)
 - [sakana录播机(斗鱼，b站，虎牙，支持弹幕)（2021/6/11 更新）](http://www.bilibili.com/read/cv5839654)
 - [编程导航](https://www.code-nav.cn/recommend)
