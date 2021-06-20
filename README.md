@@ -1,3 +1,4 @@
+- [官方-原神社区-米游社](https://bbs.mihoyo.com/ys/home/28?type=2)
 - [CS-Notes](https://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95)
 - [colakele/jd](https://github.com/colakele/jd)
 - [github trending](https://github.com/trending)
