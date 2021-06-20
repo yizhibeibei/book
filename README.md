@@ -1,3 +1,4 @@
+- [CS-Notes](https://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95)
 - [colakele/jd](https://github.com/colakele/jd)
 - [github trending](https://github.com/trending)
 - [U盘装系统_U盘启动_U盘启动盘制作工具电脑城专用下载_U启动官方网](http://uqidong.njshengyuanli.com/)
