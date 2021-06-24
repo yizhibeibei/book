@@ -1,3 +1,4 @@
+- [JDHelloWorld/jd_scripts](https://github.com/JDHelloWorld/jd_scripts)
 - [哔哩哔哩直播，二次元弹幕直播平台](https://live.bilibili.com/22625025)
 - [zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf)
 - [【脚本库】京东JS脚本整理更新 | 可乐](https://colakele.com/post/%E3%80%90%E8%84%9A%E6%9C%AC%E5%BA%93%E3%80%91%E4%BA%AC%E4%B8%9CJS%E8%84%9A%E6%9C%AC%E6%95%B4%E7%90%86%E6%9B%B4%E6%96%B0)
