@@ -1,3 +1,4 @@
+- [genshin-gacha3.0](http://101.132.195.43/genshin-web/#/gachaInfo2)
 - [戴尔 Inspiron 5448/5443/5548/5543 系统 BIOS | 驱动程序详情 | Dell 中国](https://www.dell.com/support/home/zh-cn/drivers/driversdetails?driverid=5c5tn)
 - [如何在 Windows 中启用或禁用 Bitlocker | Dell 中国](https://www.dell.com/support/kbdoc/zh-cn/000125409/如何在-windows-中启用或禁用-bitlocker)
 - [戴尔 Inspiron 5548 系统 BIOS | 驱动程序详情 | Dell 中国](https://www.dell.com/support/home/zh-cn/drivers/driversdetails?driverid=f17wc)
