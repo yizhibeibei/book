@@ -1,3 +1,4 @@
+- [磁力BT下载搜索工具qBittorrent 4.3.6.10 绿色便携增强版 ](https://www.52pojie.cn/thread-1466594-1-1.html)
 - [【吾爱原创】Windows11 安装免TPM2.0补丁！](https://www.52pojie.cn/thread-1465608-1-1.html)
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11/tree/2.1.0)
 - [genshin-gacha3.0](http://101.132.195.43/genshin-web/#/gachaInfo2)
