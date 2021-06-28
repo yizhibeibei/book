@@ -1,3 +1,4 @@
+- [【吾爱原创】Windows11 安装免TPM2.0补丁！](https://www.52pojie.cn/thread-1465608-1-1.html)
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11/tree/2.1.0)
 - [genshin-gacha3.0](http://101.132.195.43/genshin-web/#/gachaInfo2)
 - [戴尔 Inspiron 5448/5443/5548/5543 系统 BIOS | 驱动程序详情 | Dell 中国](https://www.dell.com/support/home/zh-cn/drivers/driversdetails?driverid=5c5tn)
