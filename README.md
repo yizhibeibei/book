@@ -1,3 +1,4 @@
+- [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide)
 - [我来 wolai - 不仅仅是未来的云端协作平台与个人笔记](https://www.wolai.com/3Ho9Vj4q4EMEQcQgL76CzV)
 - [kinsonyan/jd_scripts](https://github.com/kinsonyan/jd_scripts)
 - [微软官方MBR无损转换GPT工具及使用方法-联想知识库](https://iknow.lenovo.com.cn/detail/kd_24728.html)
