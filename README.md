@@ -1,3 +1,4 @@
+- [cuiliang/ClickShow](https://github.com/cuiliang/ClickShow)
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 - [Sora233/DDBOT](https://github.com/Sora233/DDBOT)
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet)
