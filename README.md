@@ -1,3 +1,4 @@
+- [文件加速下载服务-免费](https://pd.zwc365.com/)
 - [用docker快速搭建chevereto图床_Ying的博客-CSDN博客](https://blog.csdn.net/weixin_43909881/article/details/115050660)
 - [【自写】Win10离线安装NetFrameWork工具 ](https://www.52pojie.cn/thread-1477750-1-1.html)
 - [JD-CK](https://jdc.xiaofsu.com/#/)
