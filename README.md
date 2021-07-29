@@ -1,6 +1,5 @@
 - [Coolapk-UWP](https://tangent-90.github.io/Coolapk-UWP/)
 - [哔哩哔哩UWP V4--ShowDoc](https://www.showdoc.com.cn/biliuwpv4)
-- [哔哩哔哩UWP V4--ShowDoc](https://www.showdoc.com.cn/biliuwpv4)
 - [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP)
 - [dadaxiaoxiaod/JDC](https://github.com/dadaxiaoxiaod/JDC) #2.80
 - [JavisPeng/taojinbi](https://github.com/JavisPeng/taojinbi)
@@ -67,7 +66,4 @@
 - [jd](http://172.19.6.150:5700/login)
 - [《薇薇 -萤石眼之歌-》第08集无删减完整版在线观看-日本动漫-樱花动漫](http://www.sqynyl.com/p/12494-1-8.html)
 - [《一念永恒》第33集无删减完整版在线观看-国产动漫-樱花动漫](http://www.sqynyl.com/p/12278-3-33.html)
-
-
-
 --by kuku
