@@ -1,3 +1,4 @@
+- [Python Mirror](http://npm.taobao.org/mirrors/python/)
 - [A new way to read & write Markdown](https://typora.io/#windows) #md阅读
 - [钛盘 - 文件流](https://app.tmp.link/?tmpui_page=/workspace)
 - [ByteDance IconPark](https://iconpark.oceanengine.com/home?utm_source=iplaysoft.com&hmsr=iplaysoft.com) #图标
