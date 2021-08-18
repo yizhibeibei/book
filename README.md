@@ -1,3 +1,4 @@
+- [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja)
 - [ermaozi/get_subscribe: ✈️ 免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔6小时持续更新](https://github.com/ermaozi/get_subscribe)
 - [Python Mirror](http://npm.taobao.org/mirrors/python/)
 - [A new way to read & write Markdown](https://typora.io/#windows) #md阅读
