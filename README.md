@@ -1,3 +1,4 @@
+- [360随身WiFi电脑版 - 360WiFi官网](https://wifi.360.cn/easy/pc)
 - [(7条消息) Windows10设置移动热点开机自动开启_Dexter's Laboratory-CSDN博客](https://blog.csdn.net/lpwmm/article/details/106036513)
 - [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja)
 - [ermaozi/get_subscribe: ✈️ 免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔6小时持续更新](https://github.com/ermaozi/get_subscribe)
