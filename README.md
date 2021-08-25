@@ -1,3 +1,4 @@
+- [百度网盘简易下载助手（直链下载复活版）](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 - [电影天堂_免费电影_迅雷电影下载_电影天堂网](https://www.dytt8.net/index.htm)
 - [Marius Ballot - Hex Tunel](https://hextunel.netlify.app/)
 - [360随身WiFi电脑版 - 360WiFi官网](https://wifi.360.cn/easy/pc)
