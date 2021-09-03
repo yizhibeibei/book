@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="反斗限免" title="反斗限免" type="rss" 
+            xmlUrl="http://free.apprcn.com/feed/" htmlUrl="http://free.apprcn.com"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" 
+            xmlUrl="https://feed.iplaysoft.com/" htmlUrl="https://www.iplaysoft.com"/>
+      <outline text="知乎每日精选" title="知乎每日精选" type="rss" 
+            xmlUrl="https://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com"/>
+      <outline text="小众软件" title="小众软件" type="rss" 
+            xmlUrl="https://feeds.appinn.com/appinns/" htmlUrl="https://www.appinn.com"/>
+      <outline text="精品软件区" title="『精品软件区』" type="rss" 
+            xmlUrl="https://www.52pojie.cn/forum.php?mod=rss&amp;fid=16" htmlUrl="https://www.52pojie.cn/forum-16-1.html"/>
+      <outline text="编程语言区" title="『编程语言区』" type="rss" 
+            xmlUrl="https://www.52pojie.cn/forum.php?mod=rss&amp;fid=24" htmlUrl="https://www.52pojie.cn/forum-24-1.html"/>
+      <outline text="哎呦不错往前方资源网" title="哎呦不错往前方资源网" type="rss" 
+            xmlUrl="https://qianfangzy.com//feed" htmlUrl="https://qianfangzy.com"/>
+      <outline text="软件测试最新文章" title="软件测试最新文章" type="rss" 
+            xmlUrl="https://www.oschina.net/groups/rss?ident=test" htmlUrl="https://www.oschina.net/groups/rss"/>
+      <outline text="网络技术最新文章" title="网络技术最新文章" type="rss" 
+            xmlUrl="https://www.oschina.net/groups/rss?ident=network" htmlUrl="https://www.oschina.net/groups/rss"/>
+      <outline text="开发者头条-最新精选" title="开发者头条-最新精选" type="rss" 
+            xmlUrl="https://toutiao.io/daily.xml" htmlUrl="https://toutiao.io/"/>
+      <outline text="笔吧评测室" title="笔吧评测室" type="rss" 
+            xmlUrl="https://api.feeddd.org/feeds/611ce7048fae751e2363fc8b" htmlUrl="https://mp.weixin.qq.com"/>
+      <outline text="果核剥壳" title="果核剥壳" type="rss" 
+            xmlUrl="https://api.feeddd.org/feeds/611f0a488fae751e23641f97" htmlUrl="https://mp.weixin.qq.com"/>
+      <outline text="央视新闻" title="央视新闻" type="rss" 
+            xmlUrl="https://api.feeddd.org/feeds/611dd7408fae751e23640904" htmlUrl="https://mp.weixin.qq.com"/>
+      <outline text="电脑吧评测室" title="电脑吧评测室" type="rss" 
+            xmlUrl="https://api.feeddd.org/feeds/611e84b08fae751e23641ba2" htmlUrl="https://mp.weixin.qq.com"/>
+      <outline text="Android 开发者" title="Android 开发者" type="rss" 
+            xmlUrl="https://api.feeddd.org/feeds/6125b104221f954f5e10d81b" htmlUrl="https://mp.weixin.qq.com"/>
+      <outline text="测试圈TC" title="测试圈TC" type="rss" 
+            xmlUrl="https://api.feeddd.org/feeds/612db4f82b6da10dfaec96ae" htmlUrl="https://mp.weixin.qq.com"/>
+      <outline text="酷安数码" title="酷安数码" type="rss" 
+            xmlUrl="https://api.feeddd.org/feeds/6121fbcc51e2511a8279fe81" htmlUrl="https://mp.weixin.qq.com"/>
+      <outline text="国企招聘考试网" title="国企招聘考试网" type="rss" 
+            xmlUrl="https://api.feeddd.org/feeds/612db7502b6da10dfaec97c5" htmlUrl="https://mp.weixin.qq.com"/>
+</body>
+</opml>
