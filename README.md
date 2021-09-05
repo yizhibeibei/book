@@ -1,3 +1,4 @@
+- [Releases · HMBSbige/BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader/releases)
 - [人生重开模拟器](http://liferestart.syaro.io/view/index.html)
 - [Feedbro - RSS Feed Reader](https://nodetics.com/feedbro/)
 - [百页窗|文件管理|文件搜索 - 百页窗官网](https://shutters.160.com/)
