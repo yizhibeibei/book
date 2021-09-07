@@ -1,3 +1,4 @@
+- [TGSAN/CMWTAT_Digital_Edition: GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 - [ermaozi/get_subscribe: ✈️ 免费机场](https://github.com/ermaozi/get_subscribe)
 - [Releases · HMBSbige/BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader/releases)
 - [人生重开模拟器](http://liferestart.syaro.io/view/index.html)
