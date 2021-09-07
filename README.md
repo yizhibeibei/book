@@ -1,3 +1,4 @@
+- [ermaozi/get_subscribe: ✈️ 免费机场](https://github.com/ermaozi/get_subscribe)
 - [Releases · HMBSbige/BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader/releases)
 - [人生重开模拟器](http://liferestart.syaro.io/view/index.html)
 - [Feedbro - RSS Feed Reader](https://nodetics.com/feedbro/)
