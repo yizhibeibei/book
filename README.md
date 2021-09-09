@@ -1,3 +1,4 @@
+- [WKC/HeytapTask欢太](https://gitee.com/wang1573/heytap-task-huantai)
 - [hwkxk/HeytapTask: 欢太商城每日签到Python脚本](https://github.com/hwkxk/HeytapTask)
 - [NickeManarin/ScreenToGif at 2.33.1](https://github.com/NickeManarin/ScreenToGif/tree/2.33.1)
 - [TGSAN/CMWTAT_Digital_Edition: GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！](https://github.com/TGSAN/CMWTAT_Digital_Edition)
