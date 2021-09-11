@@ -1,3 +1,4 @@
+- [VTmini首页-虚拟主播,虚拟主播软件「VUP直播首选」](https://www.vtmini.cn/)
 - [WKC/HeytapTask欢太](https://gitee.com/wang1573/heytap-task-huantai)
 - [hwkxk/HeytapTask: 欢太商城每日签到Python脚本](https://github.com/hwkxk/HeytapTask)
 - [NickeManarin/ScreenToGif at 2.33.1](https://github.com/NickeManarin/ScreenToGif/tree/2.33.1)
