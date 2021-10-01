@@ -1,3 +1,4 @@
+- [B站录播姬 - 哔哩哔哩直播自动录制工具](https://rec.danmuji.org/)
 - [biancangming/wtv: 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站](https://github.com/biancangming/wtv)
 - [selierlin/Share-SSR-V2ray: 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站](https://github.com/selierlin/Share-SSR-V2ray)
 - [Leon406/Sub: 节点](https://github.com/Leon406/Sub)
