@@ -1,3 +1,4 @@
+- [GitHub - ermaozi/get_subscribe: ✈️ 免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔6小时持续更新 | 科学上网 | 翻墙](https://github.com/ermaozi/get_subscribe)
 - [guyijie1211/JustLive-Android: 📱一个整合国内多个直播平台内容的App](https://github.com/guyijie1211/JustLive-Android)
 - [B站录播姬 - 哔哩哔哩直播自动录制工具](https://rec.danmuji.org/)
 - [biancangming/wtv: 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站](https://github.com/biancangming/wtv)
