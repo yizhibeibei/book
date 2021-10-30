@@ -1,3 +1,4 @@
+- [外网访问](https://docs.lomorage.com/zh/docs/Installation/external-access/#ngrok-%E6%96%B9%E6%A1%881)
 - [zhaoolee/pi: 树莓派防吃灰小分队，让树莓派不再吃灰~](https://github.com/zhaoolee/pi)
 - [vpncn/vpncn.github.io: 2021中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。](https://github.com/vpncn/vpncn.github.io)
 - [PDF24 Creator - 下载 - 100％免费](https://tools.pdf24.org/zh/creator)
