@@ -1,3 +1,4 @@
+- [cuiocean/ZY-Player: ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞](https://github.com/cuiocean/ZY-Player)
 - [getfotiaoqiang/download: 佛跳墙官方](https://github.com/getfotiaoqiang/download)
 - [Linux命令集锦 - 『编程语言区』  - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn](https://www.52pojie.cn/thread-1537670-1-1.html)
 - [Docker Frp 中文文档 - ITCoder](https://www.itcoder.tech/posts/docker-frp/)
