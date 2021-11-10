@@ -16,6 +16,10 @@
 
 - [https://github.com/qadoc/qa-interview](https://github.com/qadoc/qa-interview)
 
+- [https://github.com/datawhalechina/wonderful-sql](https://github.com/datawhalechina/wonderful-sql)
+
+- [https://github.com/HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)
+
 - [https://github.com/felix1982/software-testing-interview-question/blob/master/Answers.md](https://github.com/felix1982/software-testing-interview-question/blob/master/Answers.md)
 
 - [https://github.com/Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
@@ -40,9 +44,13 @@
 
 - [https://github.com/doocs/leetcode](https://github.com/doocs/leetcode)
 
+- [https://github.com/datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview)
+
 - [https://github.com/SharingSource/LogicStack-LeetCode/wiki/模拟](https://github.com/SharingSource/LogicStack-LeetCode/wiki/模拟)
 
 - [https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
+
+- [https://github.com/halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 
 - [https://github.com/afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
 
@@ -80,6 +88,8 @@
 
 - [https://github.com/walter201230/Python](https://github.com/walter201230/Python)
 
+- [https://github.com/taizilongxu/interview_python](https://github.com/taizilongxu/interview_python)
+
 - [https://github.com/xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome)
 
 - [https://github.com/geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
@@ -87,6 +97,8 @@
 - [https://github.com/xujiangchen/Test-Notes](https://github.com/xujiangchen/Test-Notes)
 
 - [https://github.com/0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki)
+
+- [https://github.com/0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference)
 
 - [https://github.com/justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
