@@ -1,3 +1,4 @@
+- [yqchilde/JDMemberCloseAccount: 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案](https://github.com/yqchilde/JDMemberCloseAccount)
 - [learnhard-cn/free_proxy_ss: 分享来自互联网上免费的shadowsocks](https://github.com/learnhard-cn/free_proxy_ss)
 - [skywolf627/ProxiesActions: 通过GitHub的actions 自动采集节点 生成订阅信息](https://github.com/skywolf627/ProxiesActions)
 - [cuiocean/ZY-Player: ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞](https://github.com/cuiocean/ZY-Player)
