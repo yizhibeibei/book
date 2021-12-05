@@ -1,3 +1,4 @@
+- [微信公众号转RSS](https://wechat2rss.xlab.app/#/)
 - [fangzesheng/free-api: 收集免费的接口服务,做一个api的搬运工](https://github.com/fangzesheng/free-api)
 - [qihuan92/PhotoWidget: 一款相片小组件应用，可添加多张相片，可以打开应用、链接，支持图片裁剪、组件圆角以及边距调整。](https://github.com/qihuan92/PhotoWidget)
 - [Kyome22/RunCat_for_windows: A cute running cat animation on your windows taskbar.](https://github.com/Kyome22/RunCat_for_windows)
