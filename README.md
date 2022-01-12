@@ -1,3 +1,4 @@
+- [嗨PC主页 - 轻快上网嗨PC](https://www.haipc.cn/)
 - [dotnetcore/FastGithub: github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题](https://github.com/dotnetcore/FastGithub)
 - [ngrok的使用(超详细)_流年轻逝-CSDN博客_ngrok](https://blog.csdn.net/liunianqingshi/article/details/108049441)
 - [luminoleon/epicgames-claimer - Docker Image | Docker Hub](https://hub.docker.com/r/luminoleon/epicgames-claimer)
