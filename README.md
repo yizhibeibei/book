@@ -1,3 +1,4 @@
+- [新年贺岁福利 人人查重免单！- 百度学术](https://xueshu.baidu.com/usercenter/papercheck/activity/springfestival#/)
 - [paperpass知网维普万方大雅论文降重软件官网——毕业论文自动修改软件,论文查重修改技巧,论文修改器](http://pp.papersee.com.cn/)
 - [录播姬 Docker 版](https://rec.danmuji.org/docs/cli/docker/)
 - [嗨PC主页 - 轻快上网嗨PC](https://www.haipc.cn/)
