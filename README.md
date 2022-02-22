@@ -1,3 +1,4 @@
+- [腾讯云函数部署 | 哔哩哔哩粉丝牌助手](https://xiaomiku01.github.io/bili-live-heart/TencentCloud/#_1-2-%E9%83%A8%E7%BD%B2%E4%BB%A3%E7%A0%81%E4%B8%8A%E4%BA%91)
 - [PP自助软件官网—各类软件集散地,VIP音乐下载,VIP电影电视剧观看等](http://mai.papersee.com.cn/product/)
 - [学信网 • 万方数据文献相似性检测服务系统](https://chsi.wanfangtech.net/)
 - [新年贺岁福利 人人查重免单！- 百度学术](https://xueshu.baidu.com/usercenter/papercheck/activity/springfestival#/)
