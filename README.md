@@ -1,3 +1,4 @@
+- [开始 | go-cqhttp 帮助中心](https://docs.go-cqhttp.org/guide/quick_start.html#%E4%B8%8B%E8%BD%BD)
 - [ termux安装docker_414a](https://blog.csdn.net/qq_33008305/article/details/121496328)
 - [(41条消息) 三分钟,利用 Termux 将你的安卓手机变成 linux 服务器 (非密钥)_sinat_34885663的博客-CSDN博客_安卓手机变linux](https://blog.csdn.net/sinat_34885663/article/details/86155707)
 - [腾讯云函数部署 | 哔哩哔哩粉丝牌助手](https://xiaomiku01.github.io/bili-live-heart/TencentCloud/#_1-2-%E9%83%A8%E7%BD%B2%E4%BB%A3%E7%A0%81%E4%B8%8A%E4%BA%91)
