@@ -1,3 +1,4 @@
+- [git-yusteven/openit: 🪜🧱🪜Openit订阅致力于打造免费无感的翻墙环境](https://github.com/git-yusteven/openit)
 - [GitHub - rhming/UnicomDailyTask: 联通日常任务 腾讯云函数定时执行](https://github.com/rhming/UnicomDailyTask)
 - [GitHub - alanbobs999/TopFreeProxies: 高质量免费节点收集，及订阅链接分享。](https://github.com/alanbobs999/TopFreeProxies)
 - [开始 | go-cqhttp 帮助中心](https://docs.go-cqhttp.org/guide/quick_start.html#%E4%B8%8B%E8%BD%BD)
