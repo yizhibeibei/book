@@ -1,3 +1,4 @@
+- [那些靠谱有口碑，值得推荐的国内国外 VPS 服务器 (美国香港日本)](https://www.iplaysoft.com/p/vps)
 - [各种转 RSS 服务](https://rss.lilydjwg.me/)
 - [Alvin9999/new-pac: 墙](https://github.com/Alvin9999/new-pac)
 - [git-yusteven/openit: 🪜🧱🪜Openit订阅致力于打造免费无感的翻墙环境](https://github.com/git-yusteven/openit)
