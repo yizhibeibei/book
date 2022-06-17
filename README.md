@@ -1,3 +1,4 @@
+- [组装一台 22TB 容量的 NAS（家庭存储服务器）](https://icloudnative.io/posts/budget-nas/)
 - [AntDownload - 免登录的百度网盘不限速下载器工具！免账号/不需会员轻松跑满速](https://www.iplaysoft.com/antdownload.html)
 - [那些靠谱有口碑，值得推荐的国内国外 VPS 服务器 (美国香港日本)](https://www.iplaysoft.com/p/vps)
 - [各种转 RSS 服务](https://rss.lilydjwg.me/)
