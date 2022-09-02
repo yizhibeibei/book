@@ -1,3 +1,4 @@
+- [(2条消息) JDK安装教程（有图详解）_叼着奶瓶瓶敲代码的博客-CSDN博客_jdk安装教程](https://blog.csdn.net/R_Y_Fren/article/details/120438636)
 - [Releases · chenquan/oracle-jdk-download](https://github.com/chenquan/oracle-jdk-download/releases)
 - [yizhibeibei/book](https://github.com/yizhibeibei/book)
 - [Postman-简单接口测试-百度ip查询_� on my own �的博客-CSDN博客_百度ip查询接口](https://blog.csdn.net/abc2580_/article/details/108863731)
