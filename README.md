@@ -1,3 +1,4 @@
+- [浏览器控制台自动刷新网页脚本](https://zhuanlan.zhihu.com/p/361783966)
 - [OpenJDK Mercurial Repositories](http://hg.openjdk.java.net/jdk)
 - [jdk安装教程](https://blog.csdn.net/R_Y_Fren/article/details/120438636)
 - [(2条消息) JDK安装教程（有图详解）_叼着奶瓶瓶敲代码的博客-CSDN博客_jdk安装教程](https://blog.csdn.net/R_Y_Fren/article/details/120438636)
