@@ -1,3 +1,4 @@
+- [FastGithub](https://github.com/dotnetcore/fastgithub/releases)
 - [用户脚本](https://greasyfork.org/zh-CN/scripts)
 - [浏览器控制台自动刷新网页脚本](https://zhuanlan.zhihu.com/p/361783966)
 - [OpenJDK Mercurial Repositories](http://hg.openjdk.java.net/jdk)
