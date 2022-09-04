@@ -1,3 +1,4 @@
+- [通过UUID函数生成唯一标识符ID_不知名测试人的博客-CSDN博客_uuid生成id](https://blog.csdn.net/weixin_44610751/article/details/120993784)
 - [HTML5视频播放器增强脚本](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)
 - [FastGithub](https://github.com/dotnetcore/fastgithub/releases)
 - [用户脚本](https://greasyfork.org/zh-CN/scripts)
