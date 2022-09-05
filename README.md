@@ -1,3 +1,4 @@
+- [MySQL :: Download Connector/J](https://dev.mysql.com/downloads/connector/j/)
 - [MySQL - navicat16 安装与破解](https://www.jianshu.com/p/9c4c499429da)
 - [Navicat Premium 15 永久破解激活工具及安装教程(亲测可用) - MarchXD - 博客园](https://www.cnblogs.com/marchxd/p/15580739.html)
 - [MySQL的详细安装教程](https://zhuanlan.zhihu.com/p/188416607)
