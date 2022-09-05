@@ -1,3 +1,4 @@
+- [【JMeter】—— JDBC 数据库连接_Qearl鱼的博客-CSDN博客](https://blog.csdn.net/QearlYu/article/details/91391711)
 - [MySQL :: Download Connector/J](https://dev.mysql.com/downloads/connector/j/)
 - [MySQL - navicat16 安装与破解](https://www.jianshu.com/p/9c4c499429da)
 - [Navicat Premium 15 永久破解激活工具及安装教程(亲测可用) - MarchXD - 博客园](https://www.cnblogs.com/marchxd/p/15580739.html)
