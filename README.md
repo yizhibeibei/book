@@ -1,3 +1,4 @@
+- [MySQL的详细安装教程](https://zhuanlan.zhihu.com/p/188416607)
 - [yizhibeibei/book](https://gitee.com/yizhibeibei/book)
 - [正则表达式 – 语法 | 菜鸟教程](http://www.runoob.com/regexp/regexp-syntax.html)
 - [jemter /demos](https://jmeter.apache.org/demos/)
