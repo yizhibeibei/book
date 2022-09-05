@@ -1,3 +1,4 @@
+- [mysql-connector-java.xxxx版本.jar包下载_Hu3537596649的博客-CSDN博客](https://blog.csdn.net/Hu3537596649/article/details/107170701)
 - [【JMeter】—— JDBC 数据库连接_Qearl鱼的博客-CSDN博客](https://blog.csdn.net/QearlYu/article/details/91391711)
 - [MySQL :: Download Connector/J](https://dev.mysql.com/downloads/connector/j/)
 - [MySQL - navicat16 安装与破解](https://www.jianshu.com/p/9c4c499429da)
