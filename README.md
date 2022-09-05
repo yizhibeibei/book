@@ -1,3 +1,4 @@
+- [Jmeter工具学习（五）--JDBC Request执行多条SQL语句 - 菖蒲依依 - 博客园](https://www.cnblogs.com/changpuyi/p/13062214.html)
 - [mysql之增删改查语句_一名码猿的博客-CSDN博客_mysql增删改查语句](https://blog.csdn.net/weixin_43455192/article/details/119181735)
 - [ jmeter连接mysql无法使用executeQuery()发出数据操作语句。_卿婳的博客-CSDN博客](https://blog.csdn.net/weixin_43091665/article/details/104656039)
 - [mysql-connector-java.xxxx版本.jar包下载_Hu3537596649的博客-CSDN博客](https://blog.csdn.net/Hu3537596649/article/details/107170701)
