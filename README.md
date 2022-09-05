@@ -1,3 +1,4 @@
+- [Navicat Premium 15 永久破解激活工具及安装教程(亲测可用) - MarchXD - 博客园](https://www.cnblogs.com/marchxd/p/15580739.html)
 - [MySQL的详细安装教程](https://zhuanlan.zhihu.com/p/188416607)
 - [yizhibeibei/book](https://gitee.com/yizhibeibei/book)
 - [正则表达式 – 语法 | 菜鸟教程](http://www.runoob.com/regexp/regexp-syntax.html)
