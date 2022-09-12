@@ -1,3 +1,4 @@
+- [英特尔® 驱动程序和支持助理](https://www.intel.cn/content/www/cn/zh/support/detect.html)
 - [Index of /](http://chromedriver.storage.googleapis.com/index.html)
 - [UniPass密码管理器](https://unipass.smacdevops.com/)
 - [JMeter 人人都能学会的 Jmeter 测试 MQ 接口方法](https://zhuanlan.zhihu.com/p/139901413)
