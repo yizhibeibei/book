@@ -1,3 +1,4 @@
+- [alist](https://alist.nn.ci/zh/guide/install/script.html)
 - [英特尔® 驱动程序和支持助理](https://www.intel.cn/content/www/cn/zh/support/detect.html)
 - [Index of /](http://chromedriver.storage.googleapis.com/index.html)
 - [UniPass密码管理器](https://unipass.smacdevops.com/)
