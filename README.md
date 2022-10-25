@@ -1,3 +1,4 @@
+- [深入理解SQL的四种连接-左外连接、右外连接、内连接、全连接 - 永杰本杰 - 博客园](https://www.cnblogs.com/yyjie/p/7788413.html)
 - [MySQL IN和NOT IN用法详解](http://c.biancheng.net/view/7193.html)
 - [SQL 连接(JOIN) | 菜鸟教程](http://www.runoob.com/sql/sql-join.html)
 - [MySQL SUBSTR() 函数](https://www.w3schools.cn/sql/func_mysql_substr.asp)
