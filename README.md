@@ -1,3 +1,4 @@
+- [MySQL SUBSTR() 函数](https://www.w3schools.cn/sql/func_mysql_substr.asp)
 - [substr()](https://www.cnblogs.com/dshore123/p/7805050.html)
 - [Oracle中的substr()函数 详解及应用 - DSHORE - 博客园](https://www.cnblogs.com/dshore123/p/7805050.html)
 - [SQL之CASE WHEN用法详解_涛声依旧叭的博客-CSDN博客_case when](https://blog.csdn.net/rongtaoup/article/details/82183743)
