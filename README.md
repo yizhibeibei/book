@@ -1,3 +1,4 @@
+- [to_char和to_date的区别_入职小白的博客-CSDN博客_to_char和to_date的区别](https://blog.csdn.net/weixin_42039637/article/details/103632417)
 - [NVL()函数_doubly_yi的博客-CSDN博客_nvl](https://blog.csdn.net/qq_18335837/article/details/99676539)
 - [SQL 中函数 REPLACE() 的用法及实例_蓝星部队的博客-CSDN博客_sql replace](https://blog.csdn.net/lanxingbudui/article/details/83854735)
 - [Releases · Sora233/DDBOT](https://github.com/Sora233/DDBOT/releases)
