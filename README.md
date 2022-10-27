@@ -1,3 +1,4 @@
+- [自动化测试元素定位方式之link_text、partial_link_text超链接定位实例_Rachelgo2019的博客-CSDN博客](https://blog.csdn.net/RachelCSDN/article/details/102178653)
 - [Web自动化基础（selenium）](https://www.jianshu.com/p/348394115365)
 - [提高selenium脚本的执行速度 - 百度文库](https://wenku.baidu.com/view/da2ae02400d8ce2f0066f5335a8102d276a26198.html)
 - [如何使用python写自动化脚本？_Python-考高分网](http://www.kaotop.com/it/12402.html)
