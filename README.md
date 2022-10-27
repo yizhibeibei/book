@@ -1,3 +1,4 @@
+- [selenium显示等待与Expected Conditions类使用方法](https://www.jianshu.com/p/6a5fce06b6a3)
 - [Selenium两万字大题库](https://copyfuture.com/blogs-details/20210627222720315x)
 - [python+selenium进行简单的自动化_废物青年的博客-CSDN博客](https://blog.csdn.net/Waste_youth/article/details/106397092)
 - [Selenium2--原理 - 爱码网](https://www.likecs.com/show-203883904.html#sc=1645.3333740234375)
