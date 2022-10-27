@@ -1,3 +1,4 @@
+- [如何使用python写自动化脚本？_Python-考高分网](http://www.kaotop.com/it/12402.html)
 - [自动化测试之selenium介绍_测试界的彭于晏的博客-CSDN博客_seleniun](https://blog.csdn.net/IT_LanTian/article/details/123133417)
 - [Selenium Web自动化面试题总结（上）_测试猿David的博客-CSDN博客_如何获取web元素中的文本](https://blog.csdn.net/weixin_50271247/article/details/119182994)
 - [selenium三种等待方式](https://www.jianshu.com/p/094150a02998)
