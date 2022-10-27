@@ -1,3 +1,4 @@
+- [selenium三种等待方式](https://www.jianshu.com/p/094150a02998)
 - [好用的expected_conditions模块](https://view.inews.qq.com/a/20221020A04RZF00)
 - [selenium元素定位常用的8种方法_梦里有阳光的博客-CSDN博客_selenium定位元素的常用方法](https://blog.csdn.net/weixin_44169484/article/details/104437377)
 - [关于click和submit的笔记_weixin_30564785的博客-CSDN博客](https://blog.csdn.net/weixin_30564785/article/details/96212127)
