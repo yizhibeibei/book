@@ -1,3 +1,4 @@
+- [ Selenium submit()实例用法_冯大少的博客-CSDN博客_selenium submit()](https://blog.csdn.net/weixin_48591974/article/details/121993437)
 - [Selenium：元素判断_普通网友的博客-CSDN博客_selenium 判断元素](https://blog.csdn.net/m0_67392010/article/details/123631287)
 - [selenium 3.0变化](https://www.shuzhiduo.com/A/qVdeq99AdP/)
 - [selenium库的使用（十）：send_keys()模拟按键输入](https://www.gaoyuanqi.cn/python-selenium-send_keys/)
