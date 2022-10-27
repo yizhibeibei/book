@@ -1,3 +1,4 @@
+- [selenium元素定位常用的8种方法_梦里有阳光的博客-CSDN博客_selenium定位元素的常用方法](https://blog.csdn.net/weixin_44169484/article/details/104437377)
 - [关于click和submit的笔记_weixin_30564785的博客-CSDN博客](https://blog.csdn.net/weixin_30564785/article/details/96212127)
 - [ Selenium submit()实例用法_冯大少的博客-CSDN博客_selenium submit()](https://blog.csdn.net/weixin_48591974/article/details/121993437)
 - [Selenium：元素判断_普通网友的博客-CSDN博客_selenium 判断元素](https://blog.csdn.net/m0_67392010/article/details/123631287)
