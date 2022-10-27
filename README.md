@@ -1,3 +1,4 @@
+- [xpath定位（全）_Orchestrator_me的博客-CSDN博客_xpath定位](https://blog.csdn.net/HxiongGe/article/details/111358010)
 - [selenium Python 学习笔记之二 Xpath 元素定位 - GalaxyStar - 博客园](https://www.cnblogs.com/1050619969kong/p/15138019.html)
 - [Web自动化学习（4） - 走看看](http://t.zoukankan.com/chenyablog-p-15168787.html)
 - [SQL Join连接_w3cschool](https://www.w3cschool.cn/sql/6d5ftfp4.html)
