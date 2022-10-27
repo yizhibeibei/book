@@ -1,3 +1,4 @@
+- [软件测试之测试用例设计(二)_SeeUa的博客-CSDN博客_打印机是否能打印出来正确的内容,有多个因素影响](https://blog.csdn.net/SeeUa/article/details/108773646)
 - [α测试和β测试的介绍_是我呀--的博客-CSDN博客](https://blog.csdn.net/qq_40408443/article/details/103167230)
 - [α测试和β测试的介绍_是我呀--的博客-CSDN博客](https://blog.csdn.net/qq_40408443/article/details/103167230)
 - [对构成三角形规则的决策表合并优化方法_bluetata的博客-CSDN博客_决策表合并](https://blog.csdn.net/dietime1943/article/details/77040074)
