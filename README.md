@@ -1,3 +1,4 @@
+- [自动化测试辅助工具——FirePath - 爱码网](https://www.likecs.com/show-203512112.html)
 - [WebDriver--定位元素的8种方式 - 走看看](http://t.zoukankan.com/i969639-p-11201174.html)
 - [自动化测试元素定位方式之link_text、partial_link_text超链接定位实例_Rachelgo2019的博客-CSDN博客](https://blog.csdn.net/RachelCSDN/article/details/102178653)
 - [Web自动化基础（selenium）](https://www.jianshu.com/p/348394115365)
