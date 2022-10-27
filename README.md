@@ -1,3 +1,4 @@
+- [python+selenium进行简单的自动化_废物青年的博客-CSDN博客](https://blog.csdn.net/Waste_youth/article/details/106397092)
 - [Selenium2--原理 - 爱码网](https://www.likecs.com/show-203883904.html#sc=1645.3333740234375)
 - [Selenium 简介](https://zhuanlan.zhihu.com/p/445477977)
 - [Selenium入门简介_爱如 少年的博客-CSDN博客](https://blog.csdn.net/u014036251/article/details/121113424)
