@@ -1,3 +1,4 @@
+- [对构成三角形规则的决策表合并优化方法_bluetata的博客-CSDN博客_决策表合并](https://blog.csdn.net/dietime1943/article/details/77040074)
 - [常见的测试用例设计方法7---因果图法_小宝的宝呢的博客-CSDN博客_因果图法](https://blog.csdn.net/weixin_53436351/article/details/123744541)
 - [常用的4种黑盒测试方法_哆啦A梦_i的博客-CSDN博客_黑盒测试方法有哪些](https://blog.csdn.net/weixin_44015669/article/details/120910994)
 - [判断元素的16中方法expected_conditions_weixin_34341229的博客-CSDN博客](https://blog.csdn.net/weixin_34341229/article/details/93606560)
