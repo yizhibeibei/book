@@ -1,3 +1,4 @@
+- [Web自动化基础（selenium）](https://www.jianshu.com/p/348394115365)
 - [提高selenium脚本的执行速度 - 百度文库](https://wenku.baidu.com/view/da2ae02400d8ce2f0066f5335a8102d276a26198.html)
 - [如何使用python写自动化脚本？_Python-考高分网](http://www.kaotop.com/it/12402.html)
 - [自动化测试之selenium介绍_测试界的彭于晏的博客-CSDN博客_seleniun](https://blog.csdn.net/IT_LanTian/article/details/123133417)
