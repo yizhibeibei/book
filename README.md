@@ -1,3 +1,4 @@
+- [常用的4种黑盒测试方法_哆啦A梦_i的博客-CSDN博客_黑盒测试方法有哪些](https://blog.csdn.net/weixin_44015669/article/details/120910994)
 - [判断元素的16中方法expected_conditions_weixin_34341229的博客-CSDN博客](https://blog.csdn.net/weixin_34341229/article/details/93606560)
 - [自动化测试辅助工具——FirePath - 爱码网](https://www.likecs.com/show-203512112.html)
 - [WebDriver--定位元素的8种方式 - 走看看](http://t.zoukankan.com/i969639-p-11201174.html)
