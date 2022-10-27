@@ -1,3 +1,4 @@
+- [Selenium2--原理 - 爱码网](https://www.likecs.com/show-203883904.html#sc=1645.3333740234375)
 - [Selenium 简介](https://zhuanlan.zhihu.com/p/445477977)
 - [Selenium入门简介_爱如 少年的博客-CSDN博客](https://blog.csdn.net/u014036251/article/details/121113424)
 - [xpath定位（全）_Orchestrator_me的博客-CSDN博客_xpath定位](https://blog.csdn.net/HxiongGe/article/details/111358010)
