@@ -1,3 +1,4 @@
+- [Selenium Web自动化面试题总结（上）_测试猿David的博客-CSDN博客_如何获取web元素中的文本](https://blog.csdn.net/weixin_50271247/article/details/119182994)
 - [selenium三种等待方式](https://www.jianshu.com/p/094150a02998)
 - [好用的expected_conditions模块](https://view.inews.qq.com/a/20221020A04RZF00)
 - [selenium元素定位常用的8种方法_梦里有阳光的博客-CSDN博客_selenium定位元素的常用方法](https://blog.csdn.net/weixin_44169484/article/details/104437377)
