@@ -1,3 +1,4 @@
+- [(1条消息) MySQL —— DDL、DML、DCL都包括那些语句？_alight0205的博客-CSDN博客](https://blog.csdn.net/djc_18706636375/article/details/106320998)
 - [(1条消息) MySQL之DCL（数据控制语言）_嘉禾嘉宁papa的博客-CSDN博客_mysql数据控制语言](https://blog.csdn.net/Alian_1223/article/details/123153573)
 - [SQL Server Substring()函数 -
 		SQL Server教程](https://www.yiibai.com/sqlserver/sql-server-substring-function.html)
