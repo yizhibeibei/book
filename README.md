@@ -1,3 +1,4 @@
+- [MySQL高级特性四：查询缓存_yongqi_wang的博客-CSDN博客](https://blog.csdn.net/yongqi_wang/article/details/86674088)
 - [MySQL——字符串类型——char(n) 和 varchar(n)](https://zhuanlan.zhihu.com/p/408175343)
 - [(1条消息) MySQL —— DDL、DML、DCL都包括那些语句？_alight0205的博客-CSDN博客](https://blog.csdn.net/djc_18706636375/article/details/106320998)
 - [(1条消息) MySQL之DCL（数据控制语言）_嘉禾嘉宁papa的博客-CSDN博客_mysql数据控制语言](https://blog.csdn.net/Alian_1223/article/details/123153573)
