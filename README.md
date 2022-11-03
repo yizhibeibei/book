@@ -1,3 +1,4 @@
+- [(1条消息) MySQL之DCL（数据控制语言）_嘉禾嘉宁papa的博客-CSDN博客_mysql数据控制语言](https://blog.csdn.net/Alian_1223/article/details/123153573)
 - [SQL Server Substring()函数 -
 		SQL Server教程](https://www.yiibai.com/sqlserver/sql-server-substring-function.html)
 - [一台物理机上运行多个mysql实例（Running Multiple MySQL Instances on One Machine） - lhdz_bj - 博客园](https://www.cnblogs.com/lhdz_bj/p/14180098.html)
