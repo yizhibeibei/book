@@ -1,3 +1,5 @@
+- [SQL Server Substring()函数 -
+		SQL Server教程](https://www.yiibai.com/sqlserver/sql-server-substring-function.html)
 - [一台物理机上运行多个mysql实例（Running Multiple MySQL Instances on One Machine） - lhdz_bj - 博客园](https://www.cnblogs.com/lhdz_bj/p/14180098.html)
 - [(1条消息) MySQL一个完整的请求过程_sixgod_0807的博客-CSDN博客](https://blog.csdn.net/weixin_39318540/article/details/99681082)
 - [唯一性索引（Unique Index）与普通索引（Normal Index）差异（上）_ITPUB博客](http://blog.itpub.net/17203031/viewspace-700089/)
