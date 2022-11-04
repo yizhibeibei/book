@@ -1,3 +1,4 @@
+- [如何在 win10 下使用 ubuntu 子系统！](https://zhuanlan.zhihu.com/p/76032647)
 - [MySQL高级特性四：查询缓存_yongqi_wang的博客-CSDN博客](https://blog.csdn.net/yongqi_wang/article/details/86674088)
 - [MySQL——字符串类型——char(n) 和 varchar(n)](https://zhuanlan.zhihu.com/p/408175343)
 - [(1条消息) MySQL —— DDL、DML、DCL都包括那些语句？_alight0205的博客-CSDN博客](https://blog.csdn.net/djc_18706636375/article/details/106320998)
