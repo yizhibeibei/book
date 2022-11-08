@@ -1,3 +1,4 @@
+- [dbvisualizer 64位破解版|dbvisualizer pro 10.0.20破解版下载 附安装教程 - 多多软件站](http://www.ddooo.com/softdown/142713.htm)
 - [selenium 发展史 - 钟鼎山林 - 博客园](https://www.cnblogs.com/niunai/p/15014457.html)
 - [如何在 win10 下使用 ubuntu 子系统！](https://zhuanlan.zhihu.com/p/76032647)
 - [MySQL高级特性四：查询缓存_yongqi_wang的博客-CSDN博客](https://blog.csdn.net/yongqi_wang/article/details/86674088)
