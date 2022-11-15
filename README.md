@@ -1,4 +1,5 @@
 - [批量修改文件名10秒搞定上千个](https://zhuanlan.zhihu.com/p/502013912)
+- [批量修改文件名10秒搞定上千个](https://zhuanlan.zhihu.com/p/502013912)
 - [开始 | go-cqhttp 帮助中心](https://docs.go-cqhttp.org/guide/quick_start.html#%E8%A7%A3%E5%8E%8B)
 - [dbvisualizer 64位破解版|dbvisualizer pro 10.0.20破解版下载 附安装教程 - 多多软件站](http://www.ddooo.com/softdown/142713.htm)
 - [selenium 发展史 - 钟鼎山林 - 博客园](https://www.cnblogs.com/niunai/p/15014457.html)
