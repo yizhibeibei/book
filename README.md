@@ -1,3 +1,4 @@
+- [光速批量重命名-支持图片、文件、音乐、视频批量修改文件名](https://www.plcmm.com/)
 - [批量修改文件名10秒搞定上千个](https://zhuanlan.zhihu.com/p/502013912)
 - [批量修改文件名10秒搞定上千个](https://zhuanlan.zhihu.com/p/502013912)
 - [开始 | go-cqhttp 帮助中心](https://docs.go-cqhttp.org/guide/quick_start.html#%E8%A7%A3%E5%8E%8B)
