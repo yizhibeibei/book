@@ -1,3 +1,4 @@
+- [mysql 正则表达式查询含有非数字和字符的记录_Mysql_脚本之家](https://www.jb51.net/article/101538.htm)
 - [Ubuntu Docker 安装 | 菜鸟教程](http://www.runoob.com/docker/ubuntu-docker-install.html)
 - [This message is shown once a day. To disable it please create](https://www.declarecode.com/code-solutions/css/this-message-is-shown-once-a-day-to-disable-it-please-create)
 - [光速批量重命名-支持图片、文件、音乐、视频批量修改文件名](https://www.plcmm.com/)
