@@ -1,3 +1,4 @@
+- [This message is shown once a day. To disable it please create](https://www.declarecode.com/code-solutions/css/this-message-is-shown-once-a-day-to-disable-it-please-create)
 - [光速批量重命名-支持图片、文件、音乐、视频批量修改文件名](https://www.plcmm.com/)
 - [批量修改文件名10秒搞定上千个](https://zhuanlan.zhihu.com/p/502013912)
 - [批量修改文件名10秒搞定上千个](https://zhuanlan.zhihu.com/p/502013912)
