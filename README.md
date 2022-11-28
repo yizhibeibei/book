@@ -1,3 +1,4 @@
+- [【面试】【MySQL常见问题总结】【03】_Wang-Junchao的博客-CSDN博客](https://blog.csdn.net/DERRANTCM/article/details/51534411)
 - [mysql中关于冗余和重复索引 -mysql教程-PHP中文网](https://www.php.cn/mysql-tutorials-380325.html)
 - [MySQL大数据量分页查询方法及其优化 - 走看看](http://t.zoukankan.com/goloving-p-8565017.html)
 - [数据库优化 分字诀 分表（纵向拆分，横向分区） - 走看看](http://t.zoukankan.com/ideacore-p-6423718.html)
