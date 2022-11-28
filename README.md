@@ -1,3 +1,4 @@
+- [mysql中关于冗余和重复索引 -mysql教程-PHP中文网](https://www.php.cn/mysql-tutorials-380325.html)
 - [MySQL大数据量分页查询方法及其优化 - 走看看](http://t.zoukankan.com/goloving-p-8565017.html)
 - [数据库优化 分字诀 分表（纵向拆分，横向分区） - 走看看](http://t.zoukankan.com/ideacore-p-6423718.html)
 - [mysql 系列：搞定索引](https://zhuanlan.zhihu.com/p/404835854)
