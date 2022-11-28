@@ -1,3 +1,4 @@
+- [MySQL复制之理论篇](https://www.gxlsystem.com/shujuku-81173.html)
 - [高性能 MySQL (一)：Schema 与数据类型优化_solocoder222的博客-CSDN博客](https://blog.csdn.net/solocoder/article/details/86619153)
 - [外键的设置 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1997643)
 - [mysql事务块处理 - netcorner - 博客园](https://www.cnblogs.com/netcorner/p/4209895.html)
