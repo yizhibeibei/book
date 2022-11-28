@@ -1,3 +1,4 @@
+- [MySQL习题总汇【一】](https://zhuanlan.zhihu.com/p/390166799)
 - [Mysql面试题_Franco蜡笔小强的博客-CSDN博客](https://blog.csdn.net/w372426096/article/details/82621532)
 - [MySQL启动和关闭命令_普通网友的博客-CSDN博客_关闭mysql服务命令](https://blog.csdn.net/m0_67390788/article/details/123673930)
 - [MySQL有哪些索引类型？Mysql支持哪几种索引-IT百科-soogor软件](https://www.soogor.com/itbk/2203.html)
