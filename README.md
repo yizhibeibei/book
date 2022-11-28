@@ -1,3 +1,4 @@
+- [BEGIN - 开始一个事务块 - 樊伟胜 - 博客园](https://www.cnblogs.com/fanweisheng/p/11076475.html)
 - [索引的类型及分类 - CodingPanda - 博客园](https://www.cnblogs.com/LiLiliang/p/9960895.html)
 - [数据库面试基础知识整理 - 几忆年少红尘客 - 博客园](https://www.cnblogs.com/weijuanran/archive/2019/01/25/DataBase.html)
 - [MySQL中声明游标的命令是,MySQL游标(cursor) 定义及使用_杜路辉的博客-CSDN博客](https://blog.csdn.net/weixin_29887959/article/details/115896216)
