@@ -1,3 +1,4 @@
+- [mysql事务块处理 - netcorner - 博客园](https://www.cnblogs.com/netcorner/p/4209895.html)
 - [BEGIN - 开始一个事务块 - 樊伟胜 - 博客园](https://www.cnblogs.com/fanweisheng/p/11076475.html)
 - [索引的类型及分类 - CodingPanda - 博客园](https://www.cnblogs.com/LiLiliang/p/9960895.html)
 - [数据库面试基础知识整理 - 几忆年少红尘客 - 博客园](https://www.cnblogs.com/weijuanran/archive/2019/01/25/DataBase.html)
