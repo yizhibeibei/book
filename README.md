@@ -1,3 +1,4 @@
+- [mysql创建主键索引的关键字使用_mysql索引的创建,测试,使用_杨姓美少年的博客-CSDN博客](https://blog.csdn.net/weixin_30114439/article/details/113604502)
 - [mysql中的update(更新)与alter(更改)以及 change和modify的区别 - 一乐乐 - 博客园](https://www.cnblogs.com/shan333/p/14882100.html)
 - [MYSQL中ALTER命令_耶啵er的博客-CSDN博客_mysql alter](https://blog.csdn.net/weixin_45726387/article/details/119508087)
 - [UltraEdit编辑器+注册机（windows版）_weixin_45230720的博客-CSDN博客_ultraedit注册机](https://blog.csdn.net/weixin_45230720/article/details/126695298)
