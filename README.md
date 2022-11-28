@@ -1,3 +1,4 @@
+- [MySQL大数据量分页查询方法及其优化 - 走看看](http://t.zoukankan.com/goloving-p-8565017.html)
 - [数据库优化 分字诀 分表（纵向拆分，横向分区） - 走看看](http://t.zoukankan.com/ideacore-p-6423718.html)
 - [mysql 系列：搞定索引](https://zhuanlan.zhihu.com/p/404835854)
 - [MySQL中find_in_set()函数用法详解_Gan_1314的博客-CSDN博客_mysql的find_in_set](https://blog.csdn.net/Gan_1314/article/details/125449132)
