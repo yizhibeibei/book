@@ -1,3 +1,4 @@
+- [mysql数据库面试基础题,mysql常见面试题及答案-天道酬勤-花开半夏](https://www.zhangshilong.cn/work/275803.html)
 - [【数据库】MYSQL学习记录一：InnoDB的架构设计](https://blog.csdn.net/qq_43654226/article/details/113871900)
 - [UNION操作符的用法_TAT船长的博客-CSDN博客](https://blog.csdn.net/u011345304/article/details/53184652)
 - [Mysql中锁的类型有哪些呢？_百度知道](https://zhidao.baidu.com/question/1583559180745861540.html)
