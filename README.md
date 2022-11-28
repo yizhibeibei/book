@@ -1,3 +1,4 @@
+- [MySQL有哪些索引类型？Mysql支持哪几种索引-IT百科-soogor软件](https://www.soogor.com/itbk/2203.html)
 - [MySQL 聚合函数（一）聚合（组合）函数概述 - 爆炸的果核 - 博客园](https://www.cnblogs.com/bigbigbigo/p/10952895.html)
 - [Mysql-5大常用聚合函数_等恰逢花开的博客-CSDN博客_聚合函数](https://blog.csdn.net/qq_43594610/article/details/122654607)
 - [三分钟快速教程——SQL基础大通关](https://baijiahao.baidu.com/s?id=1689667048318072087&wfr=spider&for=pc)
