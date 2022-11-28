@@ -1,3 +1,4 @@
+- [MySQL启动和关闭命令_普通网友的博客-CSDN博客_关闭mysql服务命令](https://blog.csdn.net/m0_67390788/article/details/123673930)
 - [MySQL有哪些索引类型？Mysql支持哪几种索引-IT百科-soogor软件](https://www.soogor.com/itbk/2203.html)
 - [MySQL 聚合函数（一）聚合（组合）函数概述 - 爆炸的果核 - 博客园](https://www.cnblogs.com/bigbigbigo/p/10952895.html)
 - [Mysql-5大常用聚合函数_等恰逢花开的博客-CSDN博客_聚合函数](https://blog.csdn.net/qq_43594610/article/details/122654607)
