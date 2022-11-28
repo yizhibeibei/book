@@ -1,3 +1,4 @@
+- [MySQL中声明游标的命令是,MySQL游标(cursor) 定义及使用_杜路辉的博客-CSDN博客](https://blog.csdn.net/weixin_29887959/article/details/115896216)
 - [mysql_init的参数怎么定_MySQL的my.ini配置参数详解_不爱说话的我的博客-CSDN博客](https://blog.csdn.net/weixin_42146230/article/details/113299786)
 - [文库下载器3.0 ](https://www.52pojie.cn/thread-1715798-1-1.html)
 - [MySQL 主从同步(2)-问题梳理_51CTO博客_mysql主从同步](https://blog.51cto.com/u_10272167/2695553)
