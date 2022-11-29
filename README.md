@@ -1,3 +1,4 @@
+- [工学软件测试考试题目 - 百度文库](https://wenku.baidu.com/view/813fbe91270c844769eae009581b6bd97f19bccc.html?_wkts_=1669719562627)
 - [自动键鼠(AutoJS) v5.0.3.2 全中文 易于使用的键盘和鼠标模拟软件](https://www.52pojie.cn/thread-1719136-1-1.html)
 - [自动化测试框架知识，读这一篇就够了！](https://zhuanlan.zhihu.com/p/163105405)
 - [SQL- case when then else end 用法经验总结 - 马踏飞燕Beautiful - 博客园](https://www.cnblogs.com/Formulate0303/p/11962254.html)
