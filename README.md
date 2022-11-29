@@ -1,3 +1,4 @@
+- [SQL- case when then else end 用法经验总结 - 马踏飞燕Beautiful - 博客园](https://www.cnblogs.com/Formulate0303/p/11962254.html)
 - [SQL学习笔记——limit用法（limit使用一个参数，limit使用两个参数）_千与千与千的博客-CSDN博客_limit两个参数](https://blog.csdn.net/liu_feng_zi_/article/details/106863688)
 - [mysql数据库面试基础题,mysql常见面试题及答案-天道酬勤-花开半夏](https://www.zhangshilong.cn/work/275803.html)
 - [【数据库】MYSQL学习记录一：InnoDB的架构设计](https://blog.csdn.net/qq_43654226/article/details/113871900)
