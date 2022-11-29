@@ -1,3 +1,4 @@
+- [SQL学习笔记——limit用法（limit使用一个参数，limit使用两个参数）_千与千与千的博客-CSDN博客_limit两个参数](https://blog.csdn.net/liu_feng_zi_/article/details/106863688)
 - [mysql数据库面试基础题,mysql常见面试题及答案-天道酬勤-花开半夏](https://www.zhangshilong.cn/work/275803.html)
 - [【数据库】MYSQL学习记录一：InnoDB的架构设计](https://blog.csdn.net/qq_43654226/article/details/113871900)
 - [UNION操作符的用法_TAT船长的博客-CSDN博客](https://blog.csdn.net/u011345304/article/details/53184652)
