@@ -1,3 +1,4 @@
+- [LCSAJ测试](http://vue5.com/software_testing_dictionary/lcsaj_testing.html)
 - [敏捷开发过程中的测试](https://zhuanlan.zhihu.com/p/147551232)
 - [Feeddd 免费 RSS 订阅源](https://feeddd.org/feeds)
 - [【最全】软件测试基础理论选择题（含答案）_猫学学的博客-CSDN博客_测试的目标是为了证明程序没有错误](https://blog.csdn.net/maoxuexue/article/details/104515599)
