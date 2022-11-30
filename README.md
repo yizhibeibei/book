@@ -1,3 +1,4 @@
+- [【最全】ISTQB- FL大纲（含重点）_猫学学的博客-CSDN博客_istqb大纲](https://blog.csdn.net/maoxuexue/article/details/127397608)
 - [ISTQB认证工程师学习笔记（5）——测试管理_无语的小歪歪的博客-CSDN博客](https://blog.csdn.net/weixin_45464447/article/details/104511843)
 - [ISTQB软件测试初级认证模拟题_51CTO博客_istqb 测试认证](https://blog.51cto.com/u_15127627/4253700)
 - [下面关于独立测试的描述，独立性从高到低的排列，哪个_百度题库](https://easylearn.baidu.com/edu-page/tiangong/bgkdetail?id=8b2dd0faf61fb7360b4c65fc&fr=search)
