@@ -1,3 +1,4 @@
+- [ISTQB认证工程师学习笔记（5）——测试管理_无语的小歪歪的博客-CSDN博客](https://blog.csdn.net/weixin_45464447/article/details/104511843)
 - [ISTQB软件测试初级认证模拟题_51CTO博客_istqb 测试认证](https://blog.51cto.com/u_15127627/4253700)
 - [下面关于独立测试的描述，独立性从高到低的排列，哪个_百度题库](https://easylearn.baidu.com/edu-page/tiangong/bgkdetail?id=8b2dd0faf61fb7360b4c65fc&fr=search)
 - [集成测试（自顶向下，自底向上，三明治）_xia@xia的博客-CSDN博客](https://blog.csdn.net/xiadanying/article/details/91442184)
