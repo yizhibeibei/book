@@ -1,3 +1,4 @@
+- [验收测试：α测试（Alpha 测试 ）、β测试（beta测试）_Chloe＿RO的博客-CSDN博客_验收测试](https://blog.csdn.net/weixin_43889487/article/details/121805818)
 - [LCSAJ测试](http://vue5.com/software_testing_dictionary/lcsaj_testing.html)
 - [敏捷开发过程中的测试](https://zhuanlan.zhihu.com/p/147551232)
 - [Feeddd 免费 RSS 订阅源](https://feeddd.org/feeds)
