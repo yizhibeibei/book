@@ -1,3 +1,4 @@
+- [测试用例设计——场景法_molly_cici的博客-CSDN博客_场景法设计测试用例](https://blog.csdn.net/molly_cici/article/details/102979516)
 - [软件测试之α测试和Beta测试 - angelfishone - 博客园](https://www.cnblogs.com/angelfishone/p/5260864.html)
 - [验收测试：α测试（Alpha 测试 ）、β测试（beta测试）_Chloe＿RO的博客-CSDN博客_验收测试](https://blog.csdn.net/weixin_43889487/article/details/121805818)
 - [LCSAJ测试](http://vue5.com/software_testing_dictionary/lcsaj_testing.html)
