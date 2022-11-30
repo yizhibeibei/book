@@ -1,3 +1,4 @@
+- [下面关于独立测试的描述，独立性从高到低的排列，哪个_百度题库](https://easylearn.baidu.com/edu-page/tiangong/bgkdetail?id=8b2dd0faf61fb7360b4c65fc&fr=search)
 - [集成测试（自顶向下，自底向上，三明治）_xia@xia的博客-CSDN博客](https://blog.csdn.net/xiadanying/article/details/91442184)
 - [面向对象的软件测试技术 - 七月的尾巴_葵花 - 博客园](https://www.cnblogs.com/kuihua/p/5925088.html)
 - [测试用例设计——场景法_molly_cici的博客-CSDN博客_场景法设计测试用例](https://blog.csdn.net/molly_cici/article/details/102979516)
