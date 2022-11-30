@@ -1,3 +1,4 @@
+- [敏捷开发过程中的测试](https://zhuanlan.zhihu.com/p/147551232)
 - [Feeddd 免费 RSS 订阅源](https://feeddd.org/feeds)
 - [【最全】软件测试基础理论选择题（含答案）_猫学学的博客-CSDN博客_测试的目标是为了证明程序没有错误](https://blog.csdn.net/maoxuexue/article/details/104515599)
 - [测试用例方法----正交试验（实验）设计法（黑盒）_zipdd的博客-CSDN博客_正交法设计测试用例](https://blog.csdn.net/a874045/article/details/106396380)
