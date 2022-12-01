@@ -1,3 +1,4 @@
+- [数据测试方法_fin_123的博客-CSDN博客](https://blog.csdn.net/zouhui1003it/article/details/122711044)
 - [场景要求：”……对功率大于50马力的机器、维修记录不全或已运行10年以上的机器，应给予优先的维修处理……”。这里假定，“_题王网](http://www.tiw.cn/q/yveslpru)
 - [软件测试基础理论](https://www.bilibili.com/read/cv18621438/)
 - [ISTQB题解：关于一道决策表优化的题解_梅森上校的博客-CSDN博客_决策表的优化](https://blog.csdn.net/seagal890/article/details/79673479)
