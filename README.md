@@ -1,3 +1,4 @@
+- [软件测试入门系列之十九：什么是需求追踪矩阵(RTM)](https://zhuanlan.zhihu.com/p/356824985)
 - [软考](https://blog.csdn.net/weixin_45464447/category_9737403.html)
 - [【最全】ISTQB- FL大纲（含重点）_猫学学的博客-CSDN博客_istqb大纲](https://blog.csdn.net/maoxuexue/article/details/127397608)
 - [ISTQB认证工程师学习笔记（5）——测试管理_无语的小歪歪的博客-CSDN博客](https://blog.csdn.net/weixin_45464447/article/details/104511843)
