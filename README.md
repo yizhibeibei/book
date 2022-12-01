@@ -1,3 +1,4 @@
+- [软考](https://blog.csdn.net/weixin_45464447/category_9737403.html)
 - [【最全】ISTQB- FL大纲（含重点）_猫学学的博客-CSDN博客_istqb大纲](https://blog.csdn.net/maoxuexue/article/details/127397608)
 - [ISTQB认证工程师学习笔记（5）——测试管理_无语的小歪歪的博客-CSDN博客](https://blog.csdn.net/weixin_45464447/article/details/104511843)
 - [ISTQB软件测试初级认证模拟题_51CTO博客_istqb 测试认证](https://blog.51cto.com/u_15127627/4253700)
