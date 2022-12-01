@@ -1,3 +1,4 @@
+- [ISTQB题解：关于一道决策表优化的题解_梅森上校的博客-CSDN博客_决策表的优化](https://blog.csdn.net/seagal890/article/details/79673479)
 - [4.2.2 边界值分析](https://zhuanlan.zhihu.com/p/61722897)
 - [测试执行管理_LJ511100的博客-CSDN博客_测试执行管理](https://blog.csdn.net/lj511100/article/details/108918940)
 - [测试执行管理_LJ511100的博客-CSDN博客_测试执行管理](https://blog.csdn.net/lj511100/article/details/108918940)
