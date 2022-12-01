@@ -1,4 +1,5 @@
 - [测试执行管理_LJ511100的博客-CSDN博客_测试执行管理](https://blog.csdn.net/lj511100/article/details/108918940)
+- [测试执行管理_LJ511100的博客-CSDN博客_测试执行管理](https://blog.csdn.net/lj511100/article/details/108918940)
 - [ISTQB基础级中文模拟题 - 百度文库](https://wenku.baidu.com/view/2e2483c15df7ba0d4a7302768e9951e79b8969b4.html?_wkts_=1669882842123&bdQuery=%E8%AE%BE%E8%AE%A1%E4%BA%86%E4%B8%A4%E4%B8%AA%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%A6%86%E7%9B%96%E4%BA%86%E8%A7%84%E5%88%991%E5%92%8C2)
 - [软件测试入门系列之十九：什么是需求追踪矩阵(RTM)](https://zhuanlan.zhihu.com/p/356824985)
 - [软考](https://blog.csdn.net/weixin_45464447/category_9737403.html)
