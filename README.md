@@ -1,3 +1,4 @@
+- [卖萌小老头/本地文本搜索定位器](https://gitee.com/liulei901112/TextLocator)
 - [自动化（二）——八种元素定位方法_Arlick的博客-CSDN博客_自动化元素定位的方法](https://blog.csdn.net/CloserSide/article/details/109078300)
 - [层级定位 - 蓝裙子 - 博客园](https://www.cnblogs.com/huiguniang/p/7090238.html)
 - [因果图分析法例子_我爱小源的博客-CSDN博客_因果图法例题](https://blog.csdn.net/ly471911182/article/details/42585155)
