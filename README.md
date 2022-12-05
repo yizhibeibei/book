@@ -1,3 +1,4 @@
+- [分库分表](https://mp.weixin.qq.com/s/A6WS1CSjF7wvBE_gKLyp8w)
 - [MySQL 数据库索引技术原理初探](https://segmentfault.com/a/1190000042912711?hmsr=toutiao.io&utm_campaign=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [SQL 常用脚本大全](https://mp.weixin.qq.com/s/uonyx30fghmRcqd2pYxEpw)
 - [MySQL 八股文系列！](https://mp.weixin.qq.com/s/CfGEUdGMlgMDorkekF44Rw)
