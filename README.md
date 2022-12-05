@@ -1,3 +1,4 @@
+- [Java中XML运用总结 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2051291)
 - [测试常见的特殊字符集及接口测试中的测试字符-林剑平的文章【一览职业社区】](http://www.yl1001.com/article/2861506048331951.htm)
 - [FireBug_百度百科](https://baike.baidu.com/item/FireBug/2043177)
 - [使用Postman工具做接口测试(四)——参数化、执行用例与生成测试报告(完结篇) - 陈晓猛 - 博客园](https://www.cnblogs.com/chenxiaomeng/p/14846148.html)
