@@ -1,3 +1,4 @@
+- [FireBug_百度百科](https://baike.baidu.com/item/FireBug/2043177)
 - [使用Postman工具做接口测试(四)——参数化、执行用例与生成测试报告(完结篇) - 陈晓猛 - 博客园](https://www.cnblogs.com/chenxiaomeng/p/14846148.html)
 - [3.1.2 接口测试类型、分类_zemuerqi的博客-CSDN博客](https://blog.csdn.net/zemuerqi/article/details/107615146)
 - [分库分表](https://mp.weixin.qq.com/s/A6WS1CSjF7wvBE_gKLyp8w)
