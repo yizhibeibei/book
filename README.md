@@ -1,3 +1,4 @@
+- [运算符优先级顺序](https://baijiahao.baidu.com/s?id=1727080122409727421)
 - [详解 MySQL 中的字段索引和主键](https://baijiahao.baidu.com/s?id=1711565214414214169)
 - [Http请求方法之Get、Post原理 - 走看看](http://t.zoukankan.com/hypo106-p-13302298.html)
 - [HTTPS的原理及使用](https://zhuanlan.zhihu.com/p/534374497)
