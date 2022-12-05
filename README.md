@@ -1,3 +1,4 @@
+- [MySQL 数据库索引技术原理初探](https://segmentfault.com/a/1190000042912711?hmsr=toutiao.io&utm_campaign=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [SQL 常用脚本大全](https://mp.weixin.qq.com/s/uonyx30fghmRcqd2pYxEpw)
 - [MySQL 八股文系列！](https://mp.weixin.qq.com/s/CfGEUdGMlgMDorkekF44Rw)
 - [Skylark Edit v3.0.1 —— 一个开源,小巧,绿色,秒开的文本编辑器](https://www.52pojie.cn/thread-1720462-1-1.html)
