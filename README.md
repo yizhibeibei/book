@@ -1,3 +1,4 @@
+- [MySQL 八股文系列！](https://mp.weixin.qq.com/s/CfGEUdGMlgMDorkekF44Rw)
 - [Skylark Edit v3.0.1 —— 一个开源,小巧,绿色,秒开的文本编辑器](https://www.52pojie.cn/thread-1720462-1-1.html)
 - [卖萌小老头/本地文本搜索定位器](https://gitee.com/liulei901112/TextLocator)
 - [自动化（二）——八种元素定位方法_Arlick的博客-CSDN博客_自动化元素定位的方法](https://blog.csdn.net/CloserSide/article/details/109078300)
