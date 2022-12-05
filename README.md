@@ -1,3 +1,4 @@
+- [测试常见的特殊字符集及接口测试中的测试字符-林剑平的文章【一览职业社区】](http://www.yl1001.com/article/2861506048331951.htm)
 - [FireBug_百度百科](https://baike.baidu.com/item/FireBug/2043177)
 - [使用Postman工具做接口测试(四)——参数化、执行用例与生成测试报告(完结篇) - 陈晓猛 - 博客园](https://www.cnblogs.com/chenxiaomeng/p/14846148.html)
 - [3.1.2 接口测试类型、分类_zemuerqi的博客-CSDN博客](https://blog.csdn.net/zemuerqi/article/details/107615146)
