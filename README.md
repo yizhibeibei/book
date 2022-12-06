@@ -1,3 +1,4 @@
+- [MySQL中变量的定义和变量的赋值使用（转） - EasonJim - 博客园](https://www.cnblogs.com/EasonJim/p/7966918.html)
 - [MySQL集群（一）之主从复制 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1023595)
 - [《高性能MySQL》之选择优化的数据类型_雪_糕的博客-CSDN博客_数据库数据类型优化](https://blog.csdn.net/u014792352/article/details/66972688)
 - [MySQL 复制（二：配置）_剑花烟雨江南V2的博客-CSDN博客](https://blog.csdn.net/xxxx1121/article/details/106715130)
