@@ -1,3 +1,4 @@
+- [MySQL 复制（二：配置）_剑花烟雨江南V2的博客-CSDN博客](https://blog.csdn.net/xxxx1121/article/details/106715130)
 - [MySQL高级特性——绑定变量 - AmosH - 博客园](https://www.cnblogs.com/AmosH/p/10291717.html)
 - [运算符优先级顺序](https://baijiahao.baidu.com/s?id=1727080122409727421)
 - [详解 MySQL 中的字段索引和主键](https://baijiahao.baidu.com/s?id=1711565214414214169)
