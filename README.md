@@ -1,3 +1,4 @@
+- [存储过程详解与实例_FirstTalent的博客-CSDN博客_存储过程](https://blog.csdn.net/scj0725/article/details/114625180)
 - [Moeditor — Your all-purpose markdown editor](https://moeditor.js.org/) #markdown
 - [MySQL中变量的定义和变量的赋值使用（转） - EasonJim - 博客园](https://www.cnblogs.com/EasonJim/p/7966918.html)
 - [MySQL集群（一）之主从复制 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1023595)
