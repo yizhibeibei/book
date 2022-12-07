@@ -1,3 +1,4 @@
+- [MySQL ------ 全文本搜索（ match和Against），以及查询扩展和 布尔方式（十七） - obge - 博客园](https://www.cnblogs.com/obge/p/13028569.html)
 - [MySQL面试题 | 附答案解析（十四）](https://zhuanlan.zhihu.com/p/134009871)
 - [mysql 重写日志 主备_MySQL 复制 - 性能与扩展性的基石 4：主备切换_老饭骨的博客-CSDN博客](https://blog.csdn.net/weixin_29327525/article/details/113598210)
 - [Docker 镜像构建之 docker commit](https://zhuanlan.zhihu.com/p/200781844)
