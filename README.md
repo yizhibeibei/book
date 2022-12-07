@@ -1,3 +1,4 @@
+- [DELETE FROM 与 TRUNCATE TABLE区别](https://zhuanlan.zhihu.com/p/462677688)
 - [MySQL外键约束简介 - 码农教程](http://www.manongjc.com/detail/26-epyeiwywfgytvyh.html)
 - [MySQL分区表的应用场景、限制、原理、类型及使用是怎样-群英](https://www.qycn.com/xzx/article/15360.html)
 - [MySQL进阶系列第7篇：MySQL索引-压缩索引冗余索引重复索引 - 墨天轮](https://www.modb.pro/db/385632)
