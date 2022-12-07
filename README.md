@@ -1,3 +1,4 @@
+- [mysql 重写日志 主备_MySQL 复制 - 性能与扩展性的基石 4：主备切换_老饭骨的博客-CSDN博客](https://blog.csdn.net/weixin_29327525/article/details/113598210)
 - [Docker 镜像构建之 docker commit](https://zhuanlan.zhihu.com/p/200781844)
 - [docker desktop 安装 ubuntu （centOS类似） - 走看看](http://t.zoukankan.com/aiwin-p-15254313.html)
 - [【Linux】screen的安装与使用_ztmajor的博客-CSDN博客_linux install screen](https://blog.csdn.net/ztmajor/article/details/117651176)
