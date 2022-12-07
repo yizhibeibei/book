@@ -1,3 +1,4 @@
+- [单列索引、多列索引及如何选择合适的索引列顺序_椰子啊的博客-CSDN博客_单列索引](https://blog.csdn.net/yyyxxxs/article/details/100116469)
 - [MySQL ------ 全文本搜索（ match和Against），以及查询扩展和 布尔方式（十七） - obge - 博客园](https://www.cnblogs.com/obge/p/13028569.html)
 - [MySQL面试题 | 附答案解析（十四）](https://zhuanlan.zhihu.com/p/134009871)
 - [mysql 重写日志 主备_MySQL 复制 - 性能与扩展性的基石 4：主备切换_老饭骨的博客-CSDN博客](https://blog.csdn.net/weixin_29327525/article/details/113598210)
