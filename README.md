@@ -1,3 +1,4 @@
+- [chmod 命令，Linux chmod 命令详解：用来变更文件或目录的权限 -  Linux 命令搜索引擎](http://localhost:9665/c/chmod.html)
 - [Linux命令搜索引擎 命令，Linux Linux命令搜索引擎 命令详解：最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 -  Linux 命令搜索引擎](https://wangchujiang.com/linux-command/)
 - [xiaolincoder/CS-Base: 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com](https://github.com/xiaolincoder/CS-Base/tree/main/mysql)
 - [2019.6.11_MySQL进阶一：索引 - 方缘 - 博客园](https://www.cnblogs.com/huainanhai/p/11007117.html)
