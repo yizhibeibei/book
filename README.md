@@ -1,3 +1,4 @@
+- [xiaolincoder/CS-Base: 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com](https://github.com/xiaolincoder/CS-Base/tree/main/mysql)
 - [2019.6.11_MySQL进阶一：索引 - 方缘 - 博客园](https://www.cnblogs.com/huainanhai/p/11007117.html)
 - [(二)范式与反范式 - FCity - 博客园](https://www.cnblogs.com/huaiheng/p/13023196.html)
 - [MySQL之mysqldump的使用 - MarkLogZhu - 博客园](https://www.cnblogs.com/markLogZhu/p/11398028.html)
