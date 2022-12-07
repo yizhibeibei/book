@@ -1,3 +1,4 @@
+- [(二)范式与反范式 - FCity - 博客园](https://www.cnblogs.com/huaiheng/p/13023196.html)
 - [MySQL之mysqldump的使用 - MarkLogZhu - 博客园](https://www.cnblogs.com/markLogZhu/p/11398028.html)
 - [复制的问题和解决方案](https://www.jianshu.com/p/74210a2ec7f4)
 - [MySQL由哪些部分组成, 各自有什么功能？](https://www.zhangshilong.cn/work/275803.html)
