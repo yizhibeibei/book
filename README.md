@@ -1,3 +1,4 @@
+- [MySQL分区表的应用场景、限制、原理、类型及使用是怎样-群英](https://www.qycn.com/xzx/article/15360.html)
 - [MySQL进阶系列第7篇：MySQL索引-压缩索引冗余索引重复索引 - 墨天轮](https://www.modb.pro/db/385632)
 - [chmod 命令，Linux chmod 命令详解：用来变更文件或目录的权限 -  Linux 命令搜索引擎](http://localhost:9665/c/chmod.html)
 - [Linux命令搜索引擎 命令，Linux Linux命令搜索引擎 命令详解：最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 -  Linux 命令搜索引擎](https://wangchujiang.com/linux-command/)
