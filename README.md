@@ -1,3 +1,4 @@
+- [SQL_CALC_FOUND_ROWS的用法_YZF_Kevin的博客-CSDN博客_sql_calc_found_rows](https://blog.csdn.net/yzf279533105/article/details/119112143)
 - [Deletefrom与Truncatetable的区别 - 百度文库](https://wenku.baidu.com/view/e5f8ace288d63186bceb19e8b8f67c1cfad6ee34.html?_wkts_=1670393547178&bdQuery=%E4%BB%A5%E4%B8%8B%E6%8F%8F%E8%BF%B0%E4%B8%AD%2C%E5%85%B3%E4%BA%8EDELETE+FROM+TABLE%E5%92%8C+TRUNCATE+TABLE%E7%9A%84%E8%AF%B4%E6%B3%95%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%E5%93%AA%E9%A1%B9%3F)
 - [DELETE FROM 与 TRUNCATE TABLE区别](https://zhuanlan.zhihu.com/p/462677688)
 - [MySQL外键约束简介 - 码农教程](http://www.manongjc.com/detail/26-epyeiwywfgytvyh.html)
