@@ -1,3 +1,4 @@
+- [按是否手工执行测试的角度划分：手工测试、自动化测试 - 学测试的小白白 - 博客园](https://www.cnblogs.com/laoshuai/p/13131243.html)
 - [场景恢复_chen_xi_的博客-CSDN博客](https://blog.csdn.net/chen_xi_/article/details/7665767)
 - [场景恢复_chen_xi_的博客-CSDN博客](https://blog.csdn.net/chen_xi_/article/details/7665767)
 - [SQL_CALC_FOUND_ROWS的用法_YZF_Kevin的博客-CSDN博客_sql_calc_found_rows](https://blog.csdn.net/yzf279533105/article/details/119112143)
