@@ -1,3 +1,4 @@
+- [软件测试中必不可少的容错性测试](https://www.songqinnet.com/article/1337)
 - [可用性测试_百度百科](https://baike.baidu.com/item/%E5%8F%AF%E7%94%A8%E6%80%A7%E6%B5%8B%E8%AF%95/3466978)
 - [uTools官网 - 新一代效率工具平台](https://u.tools/)
 - [按是否手工执行测试的角度划分：手工测试、自动化测试 - 学测试的小白白 - 博客园](https://www.cnblogs.com/laoshuai/p/13131243.html)
