@@ -1,3 +1,4 @@
+- [软件质量保证测试试题与答案_文档之家](http://www.doczj.com/doc/293737337-5.html)
 - [回归测试详解(定义&目的、策略以及什么叫做回归等)_catch_dreamer的博客-CSDN博客_回归测试](https://blog.csdn.net/catch_dreamer/article/details/109472775)
 - [GUI软件测试_百度百科](https://baike.baidu.com/item/GUI%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/4169201)
 - [软件测试中必不可少的容错性测试](https://www.songqinnet.com/article/1337)
