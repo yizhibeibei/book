@@ -1,3 +1,4 @@
+- [GUI软件测试_百度百科](https://baike.baidu.com/item/GUI%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/4169201)
 - [软件测试中必不可少的容错性测试](https://www.songqinnet.com/article/1337)
 - [可用性测试_百度百科](https://baike.baidu.com/item/%E5%8F%AF%E7%94%A8%E6%80%A7%E6%B5%8B%E8%AF%95/3466978)
 - [uTools官网 - 新一代效率工具平台](https://u.tools/)
