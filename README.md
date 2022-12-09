@@ -1,3 +1,4 @@
+- [Linux网络IO模型 - 知白守黑，和光同尘 - 博客园](https://www.cnblogs.com/CNRF/p/14900293.html)
 - [Web功能测试主要包括哪些方面？](https://blog.csdn.net/weixin_50836778/article/details/109818091)
 - [测试计划_百度百科](https://baike.baidu.com/item/%E6%B5%8B%E8%AF%95%E8%AE%A1%E5%88%92/10921528)
 - [功能测试流程有哪些？怎么做好功能测试？_第三方软件测评的博客-CSDN博客_说明测试范围,测试条件,测试进度](https://blog.csdn.net/Zmtests703/article/details/116234707)
