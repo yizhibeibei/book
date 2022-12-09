@@ -1,3 +1,4 @@
+- [软件测试——缺陷（缺陷的基本概、缺陷的生命周期、缺陷的识别）_是吉吉吖的博客-CSDN博客_结合内容画出缺陷的生命周期](https://blog.csdn.net/wang_jiji/article/details/118608025)
 - [如何进行安装测试?](https://zhuanlan.zhihu.com/p/75789231)
 - [TPS及计算方法 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/news/380620)
 - [解析边界测试技术——健壮性测试、最坏情况测试、健壮最坏情况测试_dreamchasering的博客-CSDN博客_健壮最坏情况测试](https://blog.csdn.net/dreamchasering/article/details/72614674)
