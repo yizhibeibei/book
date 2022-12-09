@@ -1,3 +1,4 @@
+- [测试计划_百度百科](https://baike.baidu.com/item/%E6%B5%8B%E8%AF%95%E8%AE%A1%E5%88%92/10921528)
 - [功能测试流程有哪些？怎么做好功能测试？_第三方软件测评的博客-CSDN博客_说明测试范围,测试条件,测试进度](https://blog.csdn.net/Zmtests703/article/details/116234707)
 - [软件测试——缺陷（缺陷的基本概、缺陷的生命周期、缺陷的识别）_是吉吉吖的博客-CSDN博客_结合内容画出缺陷的生命周期](https://blog.csdn.net/wang_jiji/article/details/118608025)
 - [如何进行安装测试?](https://zhuanlan.zhihu.com/p/75789231)
