@@ -1,3 +1,4 @@
+- [性能测试的几种常见类型_lovelygirlyuzhu的博客-CSDN博客](https://blog.csdn.net/lovelygirlyuzhu/article/details/89447808)
 - [因果图_sunflower_day的博客-CSDN博客_因果图输出之间的约束关系](https://blog.csdn.net/sunflower_day/article/details/103256205)
 - [软件测试缺陷管理考题](https://www.renrendoc.com/paper/177534292.html)
 - [安装测试用例集](https://www.mayiwenku.com/p-19359430.html)
