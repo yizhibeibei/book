@@ -1,3 +1,4 @@
+- [软件测试缺陷管理考题](https://www.renrendoc.com/paper/177534292.html)
 - [安装测试用例集](https://www.mayiwenku.com/p-19359430.html)
 - [软件质量保证测试试题与答案_文档之家](http://www.doczj.com/doc/293737337-5.html)
 - [回归测试详解(定义&目的、策略以及什么叫做回归等)_catch_dreamer的博客-CSDN博客_回归测试](https://blog.csdn.net/catch_dreamer/article/details/109472775)
