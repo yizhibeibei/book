@@ -1,3 +1,4 @@
+- [mysql中find_in_set()函数的使用及in()用法详解_Mysql_脚本之家](https://www.jb51.net/article/143105.htm)
 - [MYSQL中 find_in_set() 函数用法详解_孔子-说的博客-CSDN博客_find_in_set](https://blog.csdn.net/carefree31441/article/details/119563685)
 - [🦠 新型冠状病毒病症状 & 💊 症状缓解药物](https://yao.p6s.fun/)
 - [Linux网络IO模型 - 知白守黑，和光同尘 - 博客园](https://www.cnblogs.com/CNRF/p/14900293.html)
