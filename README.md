@@ -1,3 +1,4 @@
+- [自动化测试脚本技术_Amy0428的博客-CSDN博客_线性化脚本有共享性吗](https://blog.csdn.net/amy0428/article/details/6082836)
 - [测试需求分析](https://www.jianshu.com/p/c6f159d6e6f7)
 - [实现自动化测试可以使用三种方式：工具、脚本、工具+脚本](https://www.cnblogs.com/1fengchen1/p/9519329.html)
 - [python负数错误异常类型_Python ValueError异常处理示例_weixin_39885469的博客-CSDN博客](https://blog.csdn.net/weixin_39885469/article/details/110266906)
