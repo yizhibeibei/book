@@ -1,3 +1,4 @@
+- [测试需求分析](https://www.jianshu.com/p/c6f159d6e6f7)
 - [实现自动化测试可以使用三种方式：工具、脚本、工具+脚本](https://www.cnblogs.com/1fengchen1/p/9519329.html)
 - [python负数错误异常类型_Python ValueError异常处理示例_weixin_39885469的博客-CSDN博客](https://blog.csdn.net/weixin_39885469/article/details/110266906)
 - [Jenkins 设置定时任务_测试界的彭于晏的博客-CSDN博客_jenkins定时任务](https://blog.csdn.net/IT_LanTian/article/details/123049778)
