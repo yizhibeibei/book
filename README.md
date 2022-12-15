@@ -1,3 +1,4 @@
+- [Jenkins 设置定时任务_测试界的彭于晏的博客-CSDN博客_jenkins定时任务](https://blog.csdn.net/IT_LanTian/article/details/123049778)
 - [mysql中find_in_set()函数的使用及in()用法详解_Mysql_脚本之家](https://www.jb51.net/article/143105.htm)
 - [MYSQL中 find_in_set() 函数用法详解_孔子-说的博客-CSDN博客_find_in_set](https://blog.csdn.net/carefree31441/article/details/119563685)
 - [🦠 新型冠状病毒病症状 & 💊 症状缓解药物](https://yao.p6s.fun/)
