@@ -1,3 +1,4 @@
+- [自动化测试的实施过程](https://zhuanlan.zhihu.com/p/137341122)
 - [自动化测试实施流程_爱笑的眼睛1223的博客-CSDN博客_自动化测试流程](https://blog.csdn.net/fsz911223/article/details/79696473/)
 - [项目组数据库脚本的维护方案_小南家的青蛙的博客-CSDN博客_线上升级数据库脚本维护](https://blog.csdn.net/jackie_xiaonan/article/details/47989877)
 - [自动化测试报告（allure/html） - 余生没有余生 - 博客园](https://www.cnblogs.com/lihongtaoya/p/15778263.html)
