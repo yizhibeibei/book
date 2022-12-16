@@ -1,3 +1,4 @@
+- [自动化测试报告（allure/html） - 余生没有余生 - 博客园](https://www.cnblogs.com/lihongtaoya/p/15778263.html)
 - [结构化脚本的优点：](https://www.likecs.com/show-205205948.html#sc=433.3333435058594)
 - [自动化测试脚本技术_Amy0428的博客-CSDN博客_线性化脚本有共享性吗](https://blog.csdn.net/amy0428/article/details/6082836)
 - [测试需求分析](https://www.jianshu.com/p/c6f159d6e6f7)
