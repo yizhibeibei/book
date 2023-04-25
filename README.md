@@ -1,3 +1,4 @@
+- [Python-Excel操作](https://www.jianshu.com/p/9217deb7ddf5)
 - [Python 自动化操作 Excel 看这一篇就够了_python自动化excel_Python不吃辣的博客-CSDN博客](https://blog.csdn.net/m0_59235508/article/details/122712465)
 - [欢迎来到RssCafe](https://rss.cafe/welcome)
 - [表格Ctrl+Shift+方向键只能整屏翻页如何处理-百度经验](https://jingyan.baidu.com/article/f7ff0bfc6f42436f26bb13fe.html)
