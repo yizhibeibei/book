@@ -1,3 +1,4 @@
+- [python如何读取列表中元素的位置？_python列表获取指定位置元素_普通网友的博客-CSDN博客](https://blog.csdn.net/m0_51713294/article/details/112464997)
 - [Python-Excel操作](https://www.jianshu.com/p/9217deb7ddf5)
 - [Python 自动化操作 Excel 看这一篇就够了_python自动化excel_Python不吃辣的博客-CSDN博客](https://blog.csdn.net/m0_59235508/article/details/122712465)
 - [欢迎来到RssCafe](https://rss.cafe/welcome)
