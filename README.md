@@ -1,3 +1,4 @@
+- [30分钟入门 Hive SQL（HQL 入门篇）](https://zhuanlan.zhihu.com/p/195836631?utm_source=wechat_timeline)
 - [xlwt设置excel字体、对齐方式、边框、颜色、背景色_xlwt设置字体颜色_呆萌的代Ma的博客-CSDN博客](https://blog.csdn.net/weixin_35757704/article/details/116290252)
 - [python如何读取列表中元素的位置？_python列表获取指定位置元素_普通网友的博客-CSDN博客](https://blog.csdn.net/m0_51713294/article/details/112464997)
 - [Python-Excel操作](https://www.jianshu.com/p/9217deb7ddf5)
