@@ -1,3 +1,4 @@
+- [使用UNIQUE函数 去除重复项-WPS学堂-原WPS学院](https://www.wps.cn/learning/course/detail/id/330370.html)
 - [Postgresql 正则表达式_DemonHunter211的博客-CSDN博客](https://blog.csdn.net/kwame211/article/details/84635648)
 - [Pandas](https://www.pypandas.cn/)
 - [yizhibeibei/pyexcel](https://github.com/yizhibeibei/pyexcel)
