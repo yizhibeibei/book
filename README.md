@@ -1,3 +1,4 @@
+- [PostgreSQL小知识：column](https://www.5kuai2.com/it/20221202/28596.html)
 - [instr()函数的用法_instr函数_Pony-D的博客-CSDN博客](https://blog.csdn.net/weixin_42772554/article/details/82744215)
 - [POSIX正则表达式 - CrunchYou - 博客园](https://www.cnblogs.com/crunchyou/p/4877427.html)
 - [Python3，9行代码，对比两个Excel数据差异，并把差异结果重新保存。_代码实现excel 内容对比_Carl_奕然的博客-CSDN博客](https://blog.csdn.net/wuyoudeyuer/article/details/127994709)
