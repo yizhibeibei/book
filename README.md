@@ -1,3 +1,4 @@
+- [postgresql----LIKE和SIMILAR TO ](https://www.cnblogs.com/alianbog/p/5617079.html)
 - [Sql进阶-postgres-like、similar to_sql similar to](https://blog.csdn.net/LycorisRadiate/article/details/119423548)
 - [身份证正则表达式](https://blog.csdn.net/qq_17032077/article/details/123919813)
 - [PostgreSQL小知识：column](https://www.5kuai2.com/it/20221202/28596.html)
