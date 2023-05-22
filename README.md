@@ -1,3 +1,4 @@
+- [UltraCompare破解版-UltraCompare(文件比较/合并工具)- 软件先锋](https://soft.macxf.com/soft/3136.html?id=MjkzOTU%3D)
 - [UltraCompare(文件比较/合并工具)中文激活版Mac/win](https://www.bilibili.com/read/cv22393151/)
 - [有4个excel文档怎么样找出差异内容和相同的内容](https://www.52pojie.cn/thread-1787902-1-1.html)
 - [【VScode输出为乱码】解决方法_vscode输出乱码_翼同学的博客-CSDN博客](https://blog.csdn.net/m0_62999278/article/details/125180807)
