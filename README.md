@@ -1,3 +1,4 @@
+- [查看Hive 表 所有信息_hive查看所有表_CaptainDing的博客-CSDN博客](https://blog.csdn.net/u012061196/article/details/84134539)
 - [表结构_DB2 如何用sql语句查看表结构](https://it.cha138.com/python/show-5812168.html)
 - [mysql中的注释有哪些-mysql教程-PHP中文网](https://www.php.cn/faq/486898.html)
 - [cron 定时任务_cron 每月最后一天_syfjava的博客-CSDN博客](https://blog.csdn.net/javaxueba/article/details/129854459)
