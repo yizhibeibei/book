@@ -1,3 +1,4 @@
+- [python 批量把xls,csv文件格式换转为xlsx格式_python csv转xlsx_西瓜WiFi的博客-CSDN博客](https://blog.csdn.net/m0_62011685/article/details/122149778)
 - [DBeaver——设置字体大小_dbeaver设置字体大小_xinlianluohan的博客-CSDN博客](https://blog.csdn.net/qq_36501591/article/details/126130838)
 - [查看Hive 表 所有信息_hive查看所有表_CaptainDing的博客-CSDN博客](https://blog.csdn.net/u012061196/article/details/84134539)
 - [表结构_DB2 如何用sql语句查看表结构](https://it.cha138.com/python/show-5812168.html)
