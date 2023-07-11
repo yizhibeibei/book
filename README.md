@@ -1,3 +1,4 @@
+- [用bat批量建立文件夹出现乱码怎么解决-百度经验](https://jingyan.baidu.com/article/915fc4145ad85e10384b2004.html)
 - [在Ubuntu中重命名文件_ubuntu重命名文件夹命令_Tloml..的博客-CSDN博客](https://blog.csdn.net/Toml_/article/details/130727629)
 - [利用Windows PowerShell进行Linux远程连接及文件互拷贝](https://www.rstk.cn/news/608978.html?action=onClick)
 - [python 汉字转拼音 获取首字母_python 拼音首字母_写Bug 的大潘的博客-CSDN博客](https://blog.csdn.net/weixin_41822224/article/details/109954396)
