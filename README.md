@@ -1,3 +1,4 @@
+- [python设置excel的顶端标题行固定 - 我爱学习网](https://www.5axxw.com/questions/simple/9nv04l)
 - [利用Python读取和修改Excel文件（包括xls文件和xlsx文件）——基于xlrd、xlwt和openpyxl模块 - 码农教程](http://www.manongjc.com/detail/63-miclsakjjiubnqf.html)
 - [Python中r代表什么意思_笔记大全_设计学院](https://www.python100.com/html/Z788D97RD2IS.html)
 - [Python xlrd 获取Excel表格单元格的背景颜色](https://zhuanlan.zhihu.com/p/473518510)
