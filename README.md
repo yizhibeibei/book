@@ -1,3 +1,4 @@
+- [如何使用Python设置Excel单元格自动换行_笔记大全_设计学院](https://www.python100.com/html/214KLMIU6D83.html)
 - [如何比较Python中的两个列表？|极客笔记](https://deepinout.com/python/python-qa/t_how-to-compare-two-lists-in-python.html)
 - [Python结合openpyxl库读取xlsx文件的每一行或每一列的内容进行处理_openpyxl读取excel一列数据_熊凯瑞的博客-CSDN博客](https://blog.csdn.net/qq_46106857/article/details/127727827)
 - [python设置excel的顶端标题行固定 - 我爱学习网](https://www.5axxw.com/questions/simple/9nv04l)
