@@ -1,3 +1,4 @@
+- [如何比较Python中的两个列表？|极客笔记](https://deepinout.com/python/python-qa/t_how-to-compare-two-lists-in-python.html)
 - [Python结合openpyxl库读取xlsx文件的每一行或每一列的内容进行处理_openpyxl读取excel一列数据_熊凯瑞的博客-CSDN博客](https://blog.csdn.net/qq_46106857/article/details/127727827)
 - [python设置excel的顶端标题行固定 - 我爱学习网](https://www.5axxw.com/questions/simple/9nv04l)
 - [利用Python读取和修改Excel文件（包括xls文件和xlsx文件）——基于xlrd、xlwt和openpyxl模块 - 码农教程](http://www.manongjc.com/detail/63-miclsakjjiubnqf.html)
