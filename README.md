@@ -1,3 +1,4 @@
+- [安装conda搭建python环境（保姆级教程）_conda安装python_Q_fairy的博客-CSDN博客](https://blog.csdn.net/Q_fairy/article/details/129158178)
 - [Anaconda 离线创建虚拟环境_anaconda离线创建虚拟环境_wzg2016的博客-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/126755011)
 - [Pandas求两个dataframe差集 详解_两个dataframe求差集_元神の助手的博客-CSDN博客](https://blog.csdn.net/guoyc439/article/details/124165334)
 - [如何使用Python设置Excel单元格自动换行_笔记大全_设计学院](https://www.python100.com/html/214KLMIU6D83.html)
