@@ -1,3 +1,4 @@
+- [JetBrains IDEs Tutorial | Codeium · Free AI Code Completion & Chat](https://codeium.com/jetbrains_tutorial)
 - [国密SM3在线工具 SM3文件哈希工具  国密3杂凑工具 - The X 在线工具](http://the-x.cn/hash/ShangMi3Algorithm.aspx)
 - [Docker简要教程](https://zhuanlan.zhihu.com/p/640805236)
 - [安装conda搭建python环境（保姆级教程）_conda安装python_Q_fairy的博客-CSDN博客](https://blog.csdn.net/Q_fairy/article/details/129158178)
