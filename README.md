@@ -1,3 +1,4 @@
+- [Codeium - 免费的 Github Copilot 替代品！AI 自动代码补全 / 智能编程助手插件](https://www.iplaysoft.com/codeium.html)
 - [JetBrains IDEs Tutorial | Codeium · Free AI Code Completion & Chat](https://codeium.com/jetbrains_tutorial)
 - [国密SM3在线工具 SM3文件哈希工具  国密3杂凑工具 - The X 在线工具](http://the-x.cn/hash/ShangMi3Algorithm.aspx)
 - [Docker简要教程](https://zhuanlan.zhihu.com/p/640805236)
