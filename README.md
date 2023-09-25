@@ -1,3 +1,4 @@
+- [Postman系列（八）-全局变量（Global）、环境变量（Environment）、集合变量（Collection）_postman环境变量和全局变量_软件测试必备技能的博客-CSDN博客](https://blog.csdn.net/weixin_40883833/article/details/126493208)
 - [API调用指南 -  千帆大模型平台 | 百度智能云文档](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/flfmc9do2)
 - [如何在电脑上设置定时开关机](https://baijiahao.baidu.com/s?id=1774442223573157971&wfr=spider&for=pc)
 - [Excel高级筛选完全指南](https://mp.weixin.qq.com/s?__biz=MzA3NTMzMjMyOA==&mid=2650931179&idx=1&sn=5037dddfaf692c69d5cb2810cbc79874&chksm=8487706cb3f0f97ab5d84cf190fe7ee7aef3a5d69b941f902a54ee508b65726dddc24bc230a7&scene=27)
