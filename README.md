@@ -1,3 +1,4 @@
+- [安卓手机免root本地运行青龙面板（ZeroTermux）-CSDN博客](https://blog.csdn.net/lq9569/article/details/129641297)
 - [Postman系列（八）-全局变量（Global）、环境变量（Environment）、集合变量（Collection）_postman环境变量和全局变量_软件测试必备技能的博客-CSDN博客](https://blog.csdn.net/weixin_40883833/article/details/126493208)
 - [API调用指南 -  千帆大模型平台 | 百度智能云文档](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/flfmc9do2)
 - [如何在电脑上设置定时开关机](https://baijiahao.baidu.com/s?id=1774442223573157971&wfr=spider&for=pc)
