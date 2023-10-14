@@ -1,3 +1,4 @@
+- [Yunzai-Bot运行报错：[ERRO] puppeteer Chromium 启动失败 解决方法 - 丘丘王 - 博客园](https://www.cnblogs.com/czy-blogs/p/17305909.html)
 - [python接口请求&token提取&断言&条件判断&异常处理_akalia0101的博客-CSDN博客](https://blog.csdn.net/m0_62357580/article/details/131925212)
 - [安卓手机免root本地运行青龙面板（ZeroTermux）-CSDN博客](https://blog.csdn.net/lq9569/article/details/129641297)
 - [Postman系列（八）-全局变量（Global）、环境变量（Environment）、集合变量（Collection）_postman环境变量和全局变量_软件测试必备技能的博客-CSDN博客](https://blog.csdn.net/weixin_40883833/article/details/126493208)
