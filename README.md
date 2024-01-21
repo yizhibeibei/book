@@ -1,3 +1,4 @@
+- [Python 鼠标循环自动点击](https://www.52pojie.cn/thread-1882670-1-1.html)
 - [解决local variable ‘str‘ referenced before assignment_local variable referenced before-CSDN博客](https://blog.csdn.net/q7w8e9r4/article/details/133856651)
 - [在线Cron表达式生成器](https://cron.qqe2.com/)
 - [Docker](https://trss.me/Install/Docker.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
