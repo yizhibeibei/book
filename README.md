@@ -1,3 +1,4 @@
+- [PostgreSQL【SQL 01】根据条件更新字段值或追加信息STRPOS(string, substring)函数使用及LIKE函数对比_pgsql strpos-CSDN博客](https://blog.csdn.net/weixin_39168541/article/details/128380136)
 - [software_reviewer/Notes at main · HansenBurger/software_reviewer](https://github.com/HansenBurger/software_reviewer/tree/main/Notes)
 - [SQL系列-窗口函数详解](https://zhuanlan.zhihu.com/p/629460362)
 - [Python 鼠标循环自动点击](https://www.52pojie.cn/thread-1882670-1-1.html)
