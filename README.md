@@ -1,3 +1,4 @@
+- [openpyxl获取单元格的主题色的颜色值_openpyxl 单元格颜色-CSDN博客](https://blog.csdn.net/as604049322/article/details/134470419)
 - [PostgreSQL EXCEPT 用法与实例](https://www.sjkjc.com/postgresql/except/)
 - [PostgreSQL【SQL 01】根据条件更新字段值或追加信息STRPOS(string, substring)函数使用及LIKE函数对比_pgsql strpos-CSDN博客](https://blog.csdn.net/weixin_39168541/article/details/128380136)
 - [software_reviewer/Notes at main · HansenBurger/software_reviewer](https://github.com/HansenBurger/software_reviewer/tree/main/Notes)
