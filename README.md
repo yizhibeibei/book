@@ -1,3 +1,4 @@
+- [Python中4种方法实现 xls 文件转 xlsx_python xls 转xlsx-CSDN博客](https://blog.csdn.net/qdPython/article/details/137655554)
 - [在线编码/加密工具-免费加密解密字符串、URL、HTML、Base64等-优工具](https://www.uutils.com/enc/)
 - [openpyxl获取单元格的主题色的颜色值_openpyxl 单元格颜色-CSDN博客](https://blog.csdn.net/as604049322/article/details/134470419)
 - [PostgreSQL EXCEPT 用法与实例](https://www.sjkjc.com/postgresql/except/)
