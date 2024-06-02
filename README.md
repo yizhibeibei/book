@@ -1,4 +1,4 @@
-- [百度一下，你就知道](https://www.baidu.com/?tn=52176495_dg)
+
 - [Index of /dist/poi/release/maven/poi](https://archive.apache.org/dist/poi/release/maven/poi/)
 - [Python中4种方法实现 xls 文件转 xlsx_python xls 转xlsx-CSDN博客](https://blog.csdn.net/qdPython/article/details/137655554)
 - [在线编码/加密工具-免费加密解密字符串、URL、HTML、Base64等-优工具](https://www.uutils.com/enc/)
