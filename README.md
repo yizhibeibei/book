@@ -1,3 +1,4 @@
+- [Postman的七种断言方法+超时设置！_postman断言-CSDN博客](https://blog.csdn.net/myh919/article/details/135290738)
 - [BitDesk比特桌面-BitDock比特工具栏-官方网站](http://www.bitdesk.cn/#home)
 - [【Windows系统优化】WinTune v2.2.1.0   绿色免安装免费无广告](https://www.52pojie.cn/thread-1916075-1-1.html)
 
