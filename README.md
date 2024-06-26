@@ -1,3 +1,4 @@
+- [隐藏应用](https://www.52pojie.cn/thread-1937765-1-1.html)
 - [SQL语句中的in/exist/NOT IN/NOT EXIST的联系与区别_exist和not exist查询效率区别-CSDN博客](https://blog.csdn.net/weixin_43988882/article/details/108061294)
 - [Python学习笔记2：字符串操作 ](https://www.52pojie.cn/thread-1935240-1-1.html)
 - [【Python办公】win32com打开Office、WPS文档的启动方式_import win32com wps.open-CSDN博客](https://blog.csdn.net/qq_39147299/article/details/134350168)
