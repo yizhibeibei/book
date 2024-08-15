@@ -1,3 +1,4 @@
+- [LiteLoaderQQNT](https://liteloaderqqnt.github.io/)
 - [QQ安装第三方插件教程（LittleLoaderQQNT）](https://www.bilibili.com/read/cv36253909/)
 - [screen常用命令_screen命令-CSDN博客](https://blog.csdn.net/qq_45734745/article/details/137977805)
 - [CTO说/系统规划与管理师](https://gitee.com/zaonai/system_planners)
