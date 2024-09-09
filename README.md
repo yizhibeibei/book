@@ -1,3 +1,4 @@
+- [Tools-Web-一个轻量的在线工具箱](https://tools.ranblogs.com/)
 - [klmahua/GitHub520](https://gitee.com/klmahuaw/GitHub520)
 - [LiteLoaderQQNT](https://liteloaderqqnt.github.io/)
 - [QQ安装第三方插件教程（LittleLoaderQQNT）](https://www.bilibili.com/read/cv36253909/)
