@@ -1,3 +1,4 @@
+- [Python strftime( )函数-CSDN博客](https://blog.csdn.net/fuli0120/article/details/81082198)
 - [Tools-Web-一个轻量的在线工具箱](https://tools.ranblogs.com/)
 - [klmahua/GitHub520](https://gitee.com/klmahuaw/GitHub520)
 - [LiteLoaderQQNT](https://liteloaderqqnt.github.io/)
