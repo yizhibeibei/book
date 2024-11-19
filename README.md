@@ -1,3 +1,4 @@
+- [USD兑CNY：美元兑换人民币汇率](https://www.exchange-rates.org/zh/converter/usd-cny)
 - [PyCharm | PyCharm中创建带有注释的py文件_pycharm新增文件注释-CSDN博客](https://blog.csdn.net/weixin_46264660/article/details/140913955)
 - [WEBDAV图形挂载本地磁盘  ](https://www.52pojie.cn/thread-1975873-1-1.html)
 - [[ntoskrnl]Windows系统文件损坏导致的蓝屏修复教程如[UNEXCEPTED_KERNEL_MODE_TRAP]](https://www.bilibili.com/video/BV1tA411B7d2/)
