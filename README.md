@@ -1,3 +1,4 @@
+- [正版数据库连接工具，DBeaver的安装与配置使用_dbeaver安装配置-CSDN博客](https://blog.csdn.net/weixin_42011858/article/details/126417846)
 - [USD兑CNY：美元兑换人民币汇率](https://www.exchange-rates.org/zh/converter/usd-cny)
 - [PyCharm | PyCharm中创建带有注释的py文件_pycharm新增文件注释-CSDN博客](https://blog.csdn.net/weixin_46264660/article/details/140913955)
 - [WEBDAV图形挂载本地磁盘  ](https://www.52pojie.cn/thread-1975873-1-1.html)
