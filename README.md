@@ -1,3 +1,4 @@
+- [多显示器亮度调节工具 Twinkle Tray v1.16.4 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1989380-1-1.html)
 - [DBeaver如何修改命名参数前缀-百度经验](https://jingyan.baidu.com/article/f54ae2fc0fcfcf5f93b8496a.html)
 - [正版数据库连接工具，DBeaver的安装与配置使用_dbeaver安装配置-CSDN博客](https://blog.csdn.net/weixin_42011858/article/details/126417846)
 - [USD兑CNY：美元兑换人民币汇率](https://www.exchange-rates.org/zh/converter/usd-cny)
