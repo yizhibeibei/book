@@ -1,3 +1,4 @@
+- [DBeaver——设置字体大小_dbeaver字体大小设置-CSDN博客](https://blog.csdn.net/2301_81133727/article/details/139883217)
 - [实用看图工具 菠萝看图Pineapple Pictures0.9.0 便携版 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1989960-1-1.html)
 - [身份证15位到18位升位转换 - 西雅图华人资讯网](https://www.seattlechinaren.com/shenfenzheng/task_gggresult.html)
 - [开源安卓投屏软件 Escrcpy v1.27.6便携版 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1989367-1-1.html)
