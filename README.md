@@ -1,3 +1,4 @@
+- [身份证15位到18位升位转换 - 西雅图华人资讯网](https://www.seattlechinaren.com/shenfenzheng/task_gggresult.html)
 - [开源安卓投屏软件 Escrcpy v1.27.6便携版 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1989367-1-1.html)
 - [多显示器亮度调节工具 Twinkle Tray v1.16.4 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1989380-1-1.html)
 - [DBeaver如何修改命名参数前缀-百度经验](https://jingyan.baidu.com/article/f54ae2fc0fcfcf5f93b8496a.html)
