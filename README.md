@@ -1,3 +1,4 @@
+- [jmeter学习（3）断言_jmeter 响应数据断言-源码信息-CSDN博客](https://blog.csdn.net/daxiashangxian/article/details/142694385)
 - [jmeter测试带参数上传文件_jmeter上传文件和参数-CSDN博客](https://blog.csdn.net/qq_31290381/article/details/109160367)
 - [JMeter基础 — JMeter中BeanShell断言详解 - alan520son - 博客园](https://www.cnblogs.com/alan5201314/p/17873486.html)
 - [JMeter如何对文件下载功能进行测试 - 南峤 - 博客园](https://www.cnblogs.com/xb9259/p/18603786)
