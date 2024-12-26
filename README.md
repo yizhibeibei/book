@@ -1,3 +1,4 @@
+- [Jmeter使用过程中的坑之Beanshell Map问题](https://zhuanlan.zhihu.com/p/62500075)
 - [Jmeter全方面讲解——Jmeter的元件使用介绍：（三）配置元件详解01 - 筱筱创 - 博客园](https://www.cnblogs.com/lrc123/p/15667011.html)
 - [jmeter学习（3）断言_jmeter 响应数据断言-源码信息-CSDN博客](https://blog.csdn.net/daxiashangxian/article/details/142694385)
 - [jmeter测试带参数上传文件_jmeter上传文件和参数-CSDN博客](https://blog.csdn.net/qq_31290381/article/details/109160367)
