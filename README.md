@@ -1,3 +1,4 @@
+- [jmeter基础-文件路径参数化 - 小飘扬 - 博客园](https://www.cnblogs.com/listening-y/p/13746809.html)
 - [零基础上手NAS：Nas-Cab结合cpolar内网穿透打造个人私有云存储-CSDN博客](https://blog.csdn.net/Easonmax/article/details/143311292)
 - [常见问题:](https://www.nascab.cn/gitInstall.html)
 - [实时网速/硬件监控悬浮窗软件 TrafficMonitor  v1.85，附带实用工具插件 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-2001682-1-1.html)
