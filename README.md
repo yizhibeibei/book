@@ -1,3 +1,4 @@
+- [在VMware中安装飞牛NAS并挂载外置硬盘的详细教程](https://zhuanlan.zhihu.com/p/1899219982946132105)
 - [jmeter基础-文件路径参数化 - 小飘扬 - 博客园](https://www.cnblogs.com/listening-y/p/13746809.html)
 - [零基础上手NAS：Nas-Cab结合cpolar内网穿透打造个人私有云存储-CSDN博客](https://blog.csdn.net/Easonmax/article/details/143311292)
 - [常见问题:](https://www.nascab.cn/gitInstall.html)
