@@ -1,3 +1,4 @@
+- [文件资源管理器 XYplorer V27.00.0600 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-2036248-1-1.html)
 - [如何安装ffmpeg安装教程（windows版），看这篇就够了。](https://zhuanlan.zhihu.com/p/692019886)
 - [在VMware中安装飞牛NAS并挂载外置硬盘的详细教程](https://zhuanlan.zhihu.com/p/1899219982946132105)
 - [jmeter基础-文件路径参数化 - 小飘扬 - 博客园](https://www.cnblogs.com/listening-y/p/13746809.html)
